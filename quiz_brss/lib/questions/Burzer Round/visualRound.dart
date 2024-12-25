@@ -262,7 +262,7 @@
 //   },
 // ];
 
-// -------------------------Set 5-----------------------
+// -------------------------Set 13-----------------------
 // final List<Map<String, String>> questions = [
 //   {"question": "", "image": "null", "answer": ""},
 //   {
@@ -288,7 +288,7 @@
 //   },
 // ];
 
-// -------------------------Set 6-----------------------
+// -------------------------Set 12-----------------------
 // final List<Map<String, String>> questions = [
 //   {"question": "", "image": "null", "answer": ""},
 //   {
@@ -437,21 +437,3 @@ final List<Map<String, String>> questions = [
     "answer": "Raju pariyar"
   },
 ];
-
-// -------------------------Set 12-----------------------
-// final List<Map<String, String>> questions = [
-//   {"question": "", "image": "null", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-// ];
-
-// -------------------------Set 13-----------------------
-// final List<Map<String, String>> questions = [
-//   {"question": "", "image": "null", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-// ];
