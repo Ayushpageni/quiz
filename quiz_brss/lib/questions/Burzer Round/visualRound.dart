@@ -74,29 +74,29 @@
 // ];
 
 //  //-----------------SET 4-------------//
-// final List<Map<String, String>> questions = [
-//   {"question": "", "image": "null", "answer": ""},
-//   {
-//     "question": "What is the molecular formula of given compound?",
-//     "answer": "H\u2082O",
-//     "image": "assets/photo/flowingwater.mp4"
-//   }, //(ans= H2O)(hint=water)
-//   {
-//     "question": "Who is this famous comedian?",
-//     "image": "assets/photo/Ques 14 photo.jpg",
-//     "answer": "Suman Karki"
-//   }, //(ans=suman karki)(hints=performer of comedy club with champion)
-//   {
-//     "question": "Identify the person?",
-//     "image": "assets/photo/Ques 15 photo.jpg",
-//     "answer": "Harka Sampang"
-//   }, //(ans=harka sampang)(hints=mayor of dharan)
-//   {
-//     "question": "What is the name of famous player displayed in image?",
-//     "image": "assets/photo/ques no 16.jpg",
-//     "answer": "Parash Khadka"
-//   } // [Former circket captain] [Parash Khadka]
-// ];
+final List<Map<String, String>> questions = [
+  {"question": "", "image": "null", "answer": ""},
+  {
+    "question": "What is the molecular formula of given compound?",
+    "answer": "H\u2082O",
+    "image": "assets/photo/flowingwater.mp4"
+  }, //(ans= H2O)(hint=water)
+  {
+    "question": "Who is this famous comedian?",
+    "image": "assets/photo/Ques 14 photo.jpg",
+    "answer": "Suman Karki"
+  }, //(ans=suman karki)(hints=performer of comedy club with champion)
+  {
+    "question": "Identify the person?",
+    "image": "assets/photo/Ques 15 photo.jpg",
+    "answer": "Harka Sampang"
+  }, //(ans=harka sampang)(hints=mayor of dharan)
+  {
+    "question": "What is the name of famous player displayed in image?",
+    "image": "assets/photo/ques no 16.jpg",
+    "answer": "Parash Khadka"
+  } // [Former circket captain] [Parash Khadka]
+];
 
 //  //-----------------SET 5----------------//
 // final List<Map<String, String>> questions = [
@@ -184,34 +184,34 @@
 // ];
 
 //-----------------SET semi-2----------------//
-final List<Map<String, String>> questions = [
-  {"question": "", "image": "null", "answer": ""},
-  {
-    "question": "Who is this player?",
-    "image": "image19.png",
-    "answer": "Anjila Tumbapo Subba"
-  },
-  {
-    "question": "Who is this famous boxer?",
-    "image": "assets/photo/ques 29.jpg",
-    "answer": "Mike Tyson"
-  },
-  {
-    "question": "Name the musical instrument displayed in the screen?",
-    "image": "assets/photo/tunguna.jpg",
-    "answer": "Tungana"
-  },
-  {
-    "question": "Which cast does this displayed customs belongs to?",
-    "image": "assets/photo/ques 31.jpg",
-    "answer": "Newar"
-  },
-  {
-    "question": "Identify the person?",
-    "image": "assets/photo/ques  32.jpg",
-    "answer": "Dhanraj acharya"
-  }
-];
+// final List<Map<String, String>> questions = [
+//   {"question": "", "image": "null", "answer": ""},
+//   {
+//     "question": "Who is this player?",
+//     "image": "image19.png",
+//     "answer": "Anjila Tumbapo Subba"
+//   },
+//   {
+//     "question": "Who is this famous boxer?",
+//     "image": "assets/photo/ques 29.jpg",
+//     "answer": "Mike Tyson"
+//   },
+//   {
+//     "question": "Name the musical instrument displayed in the screen?",
+//     "image": "assets/photo/tunguna.jpg",
+//     "answer": "Tungana"
+//   },
+//   {
+//     "question": "Which cast does this displayed customs belongs to?",
+//     "image": "assets/photo/ques 31.jpg",
+//     "answer": "Newar"
+//   },
+//   {
+//     "question": "Identify the person?",
+//     "image": "assets/photo/ques  32.jpg",
+//     "answer": "Dhanraj acharya"
+//   }
+// ];
 
 //-----------------SET final----------------//
 // final List<Map<String, String>> questions = [
@@ -268,7 +268,6 @@ final List<Map<String, String>> questions = [
 //   {"question": "", "image": "", "answer": ""},
 //   {"question": "", "image": "", "answer": ""},
 // ];
-
 
 // -------------------------Set 7-----------------------
 // final List<Map<String, String>> questions = [
