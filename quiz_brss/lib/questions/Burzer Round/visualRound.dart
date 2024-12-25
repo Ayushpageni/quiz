@@ -73,7 +73,7 @@
 //   } //12.(ans=chiri babu maharjan)(hints=mayor of lalitpur municipality)
 // ];
 
-//  //-----------------SET 4-------------//
+//-----------------SET 4-------------//
 // final List<Map<String, String>> questions = [
 //   {"question": "", "image": "null", "answer": ""},
 //   {
@@ -257,12 +257,12 @@
 //   },
 //   {
 //     "question": "Which movie is this video related to?",
-//     "image": "../assets/photo/set4v3.mp4",
+//     "image": "assets/photo/set4v3.mp4",
 //     "answer": "12 gau"
 //   },
 //   {
 //     "question": "Which movie is this video related to?",
-//     "image": "../assets/photo/set4v3.mp4",
+//     "image": "assets/photo/set4v4.mp4",
 //     "answer": "aincho paincho"
 //   },
 // ];
@@ -362,7 +362,7 @@
 //     "answer": "Bouddhanath temple"
 //   },
 //   {
-//     "question": "4.	What is the name of the acter presenting in video.",
+//     "question": "4.	What is the name of the actor presenting in video.",
 //     "image": "../assets/photo/set8v4.mp4",
 //     "answer": "Kiran KC"
 //   },
@@ -394,54 +394,54 @@
 // ];
 
 // -------------------------Set 10-----------------------
-// final List<Map<String, String>> questions = [
-//   {"question": "", "image": "null", "answer": ""},
-//   {
-//     "question": "Name the person shown in the picture.",
-//     "image": "../assets/photo/set10v1.jpg",
-//     "answer": "CA Maha Prasad Adhikari(Governor of  Nepal Rastra Bank 2024 )"
-//   },
-//   {
-//     "question": "Name the person shown in the picture.",
-//     "image": "../assets/photo/set10v2.jpg",
-//     "answer": "Shrinkhala Khatiwada(Miss Nepal  world 2018)"
-//   },
-//   {
-//     "question": "What is the name of singer of presented video.",
-//     "image": "../assets/photo/set10v3.mp4",
-//     "answer": "amrit gurung"
-//   },
-//   {
-//     "question": "Identify the name of player featured in picture.",
-//     "image": "../assets/photo/set10v4.jpg",
-//     "answer": "Aayush lama (Nofear ) pubg esports player."
-//   },
-// ];
-
-// -------------------------Set 11-----------------------
 final List<Map<String, String>> questions = [
   {"question": "", "image": "null", "answer": ""},
   {
-    "question": "तस्बिरमा देखाइएको मुर्ती कसको हो ",
-    "image": "../assets/photo/set11v1.jpg",
-    "answer": "Kal Bhairab"
+    "question": "Name the person shown in the picture.",
+    "image": "../assets/photo/set10v1.jpg",
+    "answer": "CA Maha Prasad Adhikari(Governor of  Nepal Rastra Bank 2024 )"
   },
   {
-    "question": "Identify the name of player featured in picture.",
-    "image": "../assets/photo/set11v2.jpg",
-    "answer": "sahas bhandari (killeryt )pubg esports player"
-  },
-  {
-    "question": "What is the real name of this famous celebrity?",
-    "image": "../assets/photo/set11v3.jpg",
-    "answer": "dwayne jhonson"
+    "question": "Name the person shown in the picture.",
+    "image": "../assets/photo/set10v2.jpg",
+    "answer": "Shrinkhala Khatiwada(Miss Nepal  world 2018)"
   },
   {
     "question": "What is the name of singer of presented video.",
-    "image": "../assets/photo/set11v4.mp4",
-    "answer": "Raju pariyar"
+    "image": "../assets/photo/set10v3.mp4",
+    "answer": "Amrit gurung"
+  },
+  {
+    "question": "Identify the name of player featured in picture.",
+    "image": "../assets/photo/set10v4.jpg",
+    "answer": "Aayush lama (Nofear ) pubg esports player."
   },
 ];
+
+// -------------------------Set 11-----------------------
+// final List<Map<String, String>> questions = [
+//   {"question": "", "image": "null", "answer": ""},
+//   {
+//     "question": "तस्बिरमा देखाइएको मुर्ती कसको हो ",
+//     "image": "../assets/photo/set11v1.jpg",
+//     "answer": "Kal Bhairab"
+//   },
+//   {
+//     "question": "Identify the name of player featured in picture.",
+//     "image": "../assets/photo/set11v2.jpg",
+//     "answer": "sahas bhandari (killeryt )pubg esports player"
+//   },
+//   {
+//     "question": "What is the real name of this famous celebrity?",
+//     "image": "../assets/photo/set11v3.jpg",
+//     "answer": "dwayne jhonson"
+//   },
+//   {
+//     "question": "What is the name of singer of presented video.",
+//     "image": "../assets/photo/set11v4.mp4",
+//     "answer": "Raju pariyar"
+//   },
+// ];
 
 // -------------------------Set 12-----------------------
 // final List<Map<String, String>> questions = [

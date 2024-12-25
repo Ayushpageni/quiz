@@ -28,6 +28,17 @@ class _VisualRoundState extends State<VisualRound> {
 
   late VideoPlayerController _controller;
   late VideoPlayerController _controller1;
+  late VideoPlayerController _controller2;
+  late VideoPlayerController _controller3;
+  late VideoPlayerController _controller4;
+  late VideoPlayerController _controller5;
+  late VideoPlayerController _controller6;
+  late VideoPlayerController _controller7;
+  late VideoPlayerController _controller8;
+  late VideoPlayerController _controller9;
+  late VideoPlayerController _controller10;
+  late VideoPlayerController _controller11;
+  late VideoPlayerController _controller12;
   bool _isInitialized = false;
   bool _isInitialized1 = false;
 
@@ -41,6 +52,66 @@ class _VisualRoundState extends State<VisualRound> {
         });
       });
     _controller1 = VideoPlayerController.asset('assets/photo/ques17.mp4')
+      ..initialize().then((_) {
+        setState(() {
+          _isInitialized1 = true;
+        });
+      });
+    _controller2 = VideoPlayerController.asset('assets/photo/set4v3.mp4')
+      ..initialize().then((_) {
+        setState(() {
+          _isInitialized1 = true;
+        });
+      });
+    _controller3 = VideoPlayerController.asset('assets/photo/set4v4.mp4')
+      ..initialize().then((_) {
+        setState(() {
+          _isInitialized1 = true;
+        });
+      });
+    _controller4 = VideoPlayerController.asset('assets/photo/set7v3.mp4')
+      ..initialize().then((_) {
+        setState(() {
+          _isInitialized1 = true;
+        });
+      });
+    _controller5 = VideoPlayerController.asset('assets/photo/set7v4.mp4')
+      ..initialize().then((_) {
+        setState(() {
+          _isInitialized1 = true;
+        });
+      });
+    _controller6 = VideoPlayerController.asset('../assets/photo/set8v3.mp4')
+      ..initialize().then((_) {
+        setState(() {
+          _isInitialized1 = true;
+        });
+      });
+    _controller7 = VideoPlayerController.asset('../assets/photo/set8v4.mp4')
+      ..initialize().then((_) {
+        setState(() {
+          _isInitialized1 = true;
+        });
+      });
+    _controller8 = VideoPlayerController.asset('assets/photo/set9v3.mp4')
+      ..initialize().then((_) {
+        setState(() {
+          _isInitialized1 = true;
+        });
+      });
+    _controller9 = VideoPlayerController.asset('assets/photo/set9v4.mp4')
+      ..initialize().then((_) {
+        setState(() {
+          _isInitialized1 = true;
+        });
+      });
+    _controller10 = VideoPlayerController.asset('assets/photo/set10v3.mp4')
+      ..initialize().then((_) {
+        setState(() {
+          _isInitialized1 = true;
+        });
+      });
+    _controller11 = VideoPlayerController.asset('assets/photo/set11v4.mp4')
       ..initialize().then((_) {
         setState(() {
           _isInitialized1 = true;
@@ -210,11 +281,360 @@ class _VisualRoundState extends State<VisualRound> {
                                               ],
                                             )
                                           : Container()
-                                      : Image.asset(
-                                          questions[questionNumber]['image']!,
-                                          fit: BoxFit
-                                              .cover, // This will fit the image inside the container while maintaining its aspect ratio.
-                                        ),
+                                      : questions[questionNumber]['answer'] ==
+                                              '12 gau'
+                                          ? _isInitialized1
+                                              ? Stack(
+                                                  alignment: Alignment.center,
+                                                  children: [
+                                                    AspectRatio(
+                                                      aspectRatio: _controller2
+                                                          .value.aspectRatio,
+                                                      child: VideoPlayer(
+                                                          _controller2),
+                                                    ),
+                                                    Row(
+                                                      mainAxisAlignment:
+                                                          MainAxisAlignment
+                                                              .center,
+                                                      children: [
+                                                        IconButton(
+                                                          icon: Icon(_controller2
+                                                                  .value
+                                                                  .isPlaying
+                                                              ? Icons.pause
+                                                              : Icons
+                                                                  .play_arrow),
+                                                          onPressed: () {
+                                                            setState(() {
+                                                              _controller2.value
+                                                                      .isPlaying
+                                                                  ? _controller2
+                                                                      .pause()
+                                                                  : _controller2
+                                                                      .play();
+                                                            });
+                                                          },
+                                                        )
+                                                      ],
+                                                    ),
+                                                  ],
+                                                )
+                                              : Container()
+                                          : questions[questionNumber]['answer'] ==
+                                                  'aincho paincho'
+                                              ? _isInitialized1
+                                                  ? Stack(
+                                                      alignment:
+                                                          Alignment.center,
+                                                      children: [
+                                                        AspectRatio(
+                                                          aspectRatio:
+                                                              _controller3.value
+                                                                  .aspectRatio,
+                                                          child: VideoPlayer(
+                                                              _controller3),
+                                                        ),
+                                                        Row(
+                                                          mainAxisAlignment:
+                                                              MainAxisAlignment
+                                                                  .center,
+                                                          children: [
+                                                            IconButton(
+                                                              icon: Icon(_controller3
+                                                                      .value
+                                                                      .isPlaying
+                                                                  ? Icons.pause
+                                                                  : Icons
+                                                                      .play_arrow),
+                                                              onPressed: () {
+                                                                setState(() {
+                                                                  _controller3
+                                                                          .value
+                                                                          .isPlaying
+                                                                      ? _controller3
+                                                                          .pause()
+                                                                      : _controller3
+                                                                          .play();
+                                                                });
+                                                              },
+                                                            )
+                                                          ],
+                                                        ),
+                                                      ],
+                                                    )
+                                                  : Container()
+                                              : questions[questionNumber]
+                                                          ['answer'] ==
+                                                      'Deepak bajracharya'
+                                                  ? _isInitialized1
+                                                      ? Stack(
+                                                          alignment:
+                                                              Alignment.center,
+                                                          children: [
+                                                            AspectRatio(
+                                                              aspectRatio:
+                                                                  _controller4
+                                                                      .value
+                                                                      .aspectRatio,
+                                                              child: VideoPlayer(
+                                                                  _controller4),
+                                                            ),
+                                                            Row(
+                                                              mainAxisAlignment:
+                                                                  MainAxisAlignment
+                                                                      .center,
+                                                              children: [
+                                                                IconButton(
+                                                                  icon: Icon(_controller4
+                                                                          .value
+                                                                          .isPlaying
+                                                                      ? Icons
+                                                                          .pause
+                                                                      : Icons
+                                                                          .play_arrow),
+                                                                  onPressed:
+                                                                      () {
+                                                                    setState(
+                                                                        () {
+                                                                      _controller4
+                                                                              .value
+                                                                              .isPlaying
+                                                                          ? _controller4
+                                                                              .pause()
+                                                                          : _controller4
+                                                                              .play();
+                                                                    });
+                                                                  },
+                                                                )
+                                                              ],
+                                                            ),
+                                                          ],
+                                                        )
+                                                      : Container()
+                                                  : questions[questionNumber]
+                                                              ['answer'] ==
+                                                          'joystick'
+                                                      ? _isInitialized1
+                                                          ? Stack(
+                                                              alignment:
+                                                                  Alignment
+                                                                      .center,
+                                                              children: [
+                                                                AspectRatio(
+                                                                  aspectRatio:
+                                                                      _controller5
+                                                                          .value
+                                                                          .aspectRatio,
+                                                                  child: VideoPlayer(
+                                                                      _controller5),
+                                                                ),
+                                                                Row(
+                                                                  mainAxisAlignment:
+                                                                      MainAxisAlignment
+                                                                          .center,
+                                                                  children: [
+                                                                    IconButton(
+                                                                      icon: Icon(_controller5
+                                                                              .value
+                                                                              .isPlaying
+                                                                          ? Icons
+                                                                              .pause
+                                                                          : Icons
+                                                                              .play_arrow),
+                                                                      onPressed:
+                                                                          () {
+                                                                        setState(
+                                                                            () {
+                                                                          _controller5.value.isPlaying
+                                                                              ? _controller5.pause()
+                                                                              : _controller5.play();
+                                                                        });
+                                                                      },
+                                                                    )
+                                                                  ],
+                                                                ),
+                                                              ],
+                                                            )
+                                                          : Container()
+                                                      : questions[questionNumber]
+                                                                  ['answer'] ==
+                                                              'Bouddhanath temple'
+                                                          ? _isInitialized1
+                                                              ? Stack(
+                                                                  alignment:
+                                                                      Alignment
+                                                                          .center,
+                                                                  children: [
+                                                                    AspectRatio(
+                                                                      aspectRatio: _controller6
+                                                                          .value
+                                                                          .aspectRatio,
+                                                                      child: VideoPlayer(
+                                                                          _controller6),
+                                                                    ),
+                                                                    Row(
+                                                                      mainAxisAlignment:
+                                                                          MainAxisAlignment
+                                                                              .center,
+                                                                      children: [
+                                                                        IconButton(
+                                                                          icon: Icon(_controller6.value.isPlaying
+                                                                              ? Icons.pause
+                                                                              : Icons.play_arrow),
+                                                                          onPressed:
+                                                                              () {
+                                                                            setState(() {
+                                                                              _controller6.value.isPlaying ? _controller6.pause() : _controller6.play();
+                                                                            });
+                                                                          },
+                                                                        )
+                                                                      ],
+                                                                    ),
+                                                                  ],
+                                                                )
+                                                              : Container()
+                                                          : questions[questionNumber][
+                                                                      'answer'] ==
+                                                                  'Kiran KC'
+                                                              ? _isInitialized1
+                                                                  ? Stack(
+                                                                      alignment:
+                                                                          Alignment
+                                                                              .center,
+                                                                      children: [
+                                                                        AspectRatio(
+                                                                          aspectRatio: _controller7
+                                                                              .value
+                                                                              .aspectRatio,
+                                                                          child:
+                                                                              VideoPlayer(_controller7),
+                                                                        ),
+                                                                        Row(
+                                                                          mainAxisAlignment:
+                                                                              MainAxisAlignment.center,
+                                                                          children: [
+                                                                            IconButton(
+                                                                              icon: Icon(_controller7.value.isPlaying ? Icons.pause : Icons.play_arrow),
+                                                                              onPressed: () {
+                                                                                setState(() {
+                                                                                  _controller7.value.isPlaying ? _controller7.pause() : _controller7.play();
+                                                                                });
+                                                                              },
+                                                                            )
+                                                                          ],
+                                                                        ),
+                                                                      ],
+                                                                    )
+                                                                  : Container()
+                                                              : questions[questionNumber][
+                                                                          'answer'] ==
+                                                                      'Dolakha (kuri village)'
+                                                                  ? _isInitialized1
+                                                                      ? Stack(
+                                                                          alignment:
+                                                                              Alignment.center,
+                                                                          children: [
+                                                                            AspectRatio(
+                                                                              aspectRatio: _controller8.value.aspectRatio,
+                                                                              child: VideoPlayer(_controller8),
+                                                                            ),
+                                                                            Row(
+                                                                              mainAxisAlignment: MainAxisAlignment.center,
+                                                                              children: [
+                                                                                IconButton(
+                                                                                  icon: Icon(_controller8.value.isPlaying ? Icons.pause : Icons.play_arrow),
+                                                                                  onPressed: () {
+                                                                                    setState(() {
+                                                                                      _controller8.value.isPlaying ? _controller8.pause() : _controller8.play();
+                                                                                    });
+                                                                                  },
+                                                                                )
+                                                                              ],
+                                                                            ),
+                                                                          ],
+                                                                        )
+                                                                      : Container()
+                                                                  : questions[questionNumber]['answer'] ==
+                                                                          'Lalit rajbansi'
+                                                                      ? _isInitialized1
+                                                                          ? Stack(
+                                                                              alignment: Alignment.center,
+                                                                              children: [
+                                                                                AspectRatio(
+                                                                                  aspectRatio: _controller9.value.aspectRatio,
+                                                                                  child: VideoPlayer(_controller9),
+                                                                                ),
+                                                                                Row(
+                                                                                  mainAxisAlignment: MainAxisAlignment.center,
+                                                                                  children: [
+                                                                                    IconButton(
+                                                                                      icon: Icon(_controller9.value.isPlaying ? Icons.pause : Icons.play_arrow),
+                                                                                      onPressed: () {
+                                                                                        setState(() {
+                                                                                          _controller9.value.isPlaying ? _controller9.pause() : _controller9.play();
+                                                                                        });
+                                                                                      },
+                                                                                    )
+                                                                                  ],
+                                                                                ),
+                                                                              ],
+                                                                            )
+                                                                          : Container()
+                                                                      : questions[questionNumber]['answer'] == 'Amrit gurung'
+                                                                          ? _isInitialized1
+                                                                              ? Stack(
+                                                                                  alignment: Alignment.center,
+                                                                                  children: [
+                                                                                    AspectRatio(
+                                                                                      aspectRatio: _controller10.value.aspectRatio,
+                                                                                      child: VideoPlayer(_controller10),
+                                                                                    ),
+                                                                                    Row(
+                                                                                      mainAxisAlignment: MainAxisAlignment.center,
+                                                                                      children: [
+                                                                                        IconButton(
+                                                                                          icon: Icon(_controller10.value.isPlaying ? Icons.pause : Icons.play_arrow),
+                                                                                          onPressed: () {
+                                                                                            setState(() {
+                                                                                              _controller10.value.isPlaying ? _controller10.pause() : _controller10.play();
+                                                                                            });
+                                                                                          },
+                                                                                        )
+                                                                                      ],
+                                                                                    ),
+                                                                                  ],
+                                                                                )
+                                                                              : Container()
+                                                                          : questions[questionNumber]['answer'] == 'Raju pariyar'
+                                                                              ? _isInitialized1
+                                                                                  ? Stack(
+                                                                                      alignment: Alignment.center,
+                                                                                      children: [
+                                                                                        AspectRatio(
+                                                                                          aspectRatio: _controller11.value.aspectRatio,
+                                                                                          child: VideoPlayer(_controller11),
+                                                                                        ),
+                                                                                        Row(
+                                                                                          mainAxisAlignment: MainAxisAlignment.center,
+                                                                                          children: [
+                                                                                            IconButton(
+                                                                                              icon: Icon(_controller11.value.isPlaying ? Icons.pause : Icons.play_arrow),
+                                                                                              onPressed: () {
+                                                                                                setState(() {
+                                                                                                  _controller11.value.isPlaying ? _controller11.pause() : _controller11.play();
+                                                                                                });
+                                                                                              },
+                                                                                            )
+                                                                                          ],
+                                                                                        ),
+                                                                                      ],
+                                                                                    )
+                                                                                  : Container()
+                                                                              : Image.asset(
+                                                                                  questions[questionNumber]['image']!,
+                                                                                  fit: BoxFit.cover, // This will fit the image inside the container while maintaining its aspect ratio.
+                                                                                ),
                         ),
                         const SizedBox(
                           height: 25,
