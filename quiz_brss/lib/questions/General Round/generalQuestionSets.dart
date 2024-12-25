@@ -1,219 +1,219 @@
-  //------------------ SET 1 --------------------//
-  // final List<Map<String, String>> QuestionList = [
-  //   {"questionno": "", "question": "", "answer": ""},
-  //   {
-  //     "questionno": "1",
-  //     "question": "नेपालमा राष्ट्रिय दिवस कहिले मनाइन्छ ?",
-  //     "answer": "हरेक वर्षको असोज ३ गते"
-  //   },
-  //   {
-  //     "questionno": "2",
-  //     "question": "निशुल्क wifi सेवा उपल्बध गराइएको पहिलो जिल्ला कुन हो",
-  //     "answer": "म्याग्दी"
-  //   },
-  //   {
-  //     "questionno": "3",
-  //     "question": "नेपाली राष्ट्रिय झण्डा दिवस कहिले मनाइन्छ ?",
-  //     "answer": "हरेक वर्षको वैशाख १"
-  //   },
-  //   {
-  //     "questionno": "4",
-  //     "question": "“नेपालको संविधानमा कतिवटा मौलिक हकको व्यवस्था गरिएको छ ?",
-  //     "answer": "३१ वटा"
-  //   },
-  //   {
-  //     "questionno": "5",
-  //     "question": "Love apple भन्नाले के बुझिन्छ ?	",
-  //     "answer": "गोलभेडा"
-  //   },
-  //   {
-  //     "questionno": "6",
-  //     "question": "खानेनुनको रासायनिक नाम के हो ?",
-  //     "answer": "सोडियम क्लोराइड"
-  //   },
-  //   {
-  //     "questionno": "7",
-  //     "question": "चश्माको पावर नाप्ने इकाइलाई के भनिन्छ ?",
-  //     "answer": "डायोप्टर"
-  //   },
-  //   {
-  //     "questionno": "8",
-  //     "question": "ऊँ कुन कुन अक्षर मिलेर बनेको हुन्छ ?",
-  //     "answer": "‘अ’‚ ‘उ’‚ ‘म’"
-  //   },
-  //   {
-  //     "questionno": "9",
-  //     "question":
-  //         "विश्वको सबैभन्दा सानो चरा ‘बी हमिङ वर्ड’ को तौल लगभग कति हुन्छ ?",
-  //     "answer": "१.६ ग्राम"
-  //   },
-  //   {
-  //     "questionno": "10",
-  //     "question": "पञ्चामृत के के मिसाएर बनाइन्छ ?",
-  //     "answer": "दुध‚ दही‚ घ्यू‚ मह र सख्खर"
-  //   },
-  //   {
-  //     "questionno": "11",
-  //     "question":
-  //         "आजलाई अंग्रेजी भाषामा today भनिन्छ भने आजलाई गणितिय भाषामा के भन्निछ ?",
-  //     "answer": "२०८१/०९/११"
-  //   },
-  //   {
-  //     "questionno": "12",
-  //     "question": "शरिरको सबैभन्दा बलियो भाग कुन हो ?",
-  //     "answer": "दाँत"
-  //   },
-  //   {
-  //     "questionno": "13",
-  //     "question": "४०० मा किनेको सामानलाई ३०० मा वेच्दा कति प्रतिशत घाटा हुन्छ ?",
-  //     "answer": "२५%"
-  //   },
-  //   {
-  //     "questionno": "14",
-  //     "question": "नेपालको संविधान २०७२ कहिले जारी भयो ?",
-  //     "answer": "२०७२ असोज ३"
-  //   },
-  //   {
-  //     "questionno": "15",
-  //     "question": "४ मा ८ जोडेर २ घटाई १८ जोडी २ ले गुणन गर्दा कति हुन्छ ?",
-  //     "answer": "५६"
-  //   },
-  //   {
-  //     "questionno": "16",
-  //     "question": "१ दिनमा कति मिनेट हुन्छ ?",
-  //     "answer": "१४४० मिनेट"
-  //   },
-  //   {
-  //     "questionno": "17",
-  //     "question": "१५ cm लम्बाई भएको वर्गाकार रुमालको परिमिति कति हुन्छ ?	",
-  //     "answer": "६० cm"
-  //   },
-  //   {
-  //     "questionno": "18",
-  //     "question": "नेपालका प्रथम राष्ट्रपति को हुन् ?",
-  //     "answer": "डा. रामवरण यादव"
-  //   },
-  //   {
-  //     "questionno": "19",
-  //     "question":
-  //         "मातातिर्थ औंसी वैशाख कृष्ण औंसीमा पर्छ भने कुशे औंसी कहिले पर्छ ?",
-  //     "answer": "भाद्र कृष्ण औंसी"
-  //   },
-  //   {
-  //     "questionno": "20",
-  //     "question": "सुनको सद्धता केमा नापिन्छ ?",
-  //     "answer": "क्यारेट"
-  //   }, //Field IT (technology)
-  // ];
+//------------------ SET 1 --------------------//
+// final List<Map<String, String>> QuestionList = [
+//   {"questionno": "", "question": "", "answer": ""},
+//   {
+//     "questionno": "1",
+//     "question": "नेपालमा राष्ट्रिय दिवस कहिले मनाइन्छ ?",
+//     "answer": "हरेक वर्षको असोज ३ गते"
+//   },
+//   {
+//     "questionno": "2",
+//     "question": "निशुल्क wifi सेवा उपल्बध गराइएको पहिलो जिल्ला कुन हो",
+//     "answer": "म्याग्दी"
+//   },
+//   {
+//     "questionno": "3",
+//     "question": "नेपाली राष्ट्रिय झण्डा दिवस कहिले मनाइन्छ ?",
+//     "answer": "हरेक वर्षको वैशाख १"
+//   },
+//   {
+//     "questionno": "4",
+//     "question": "“नेपालको संविधानमा कतिवटा मौलिक हकको व्यवस्था गरिएको छ ?",
+//     "answer": "३१ वटा"
+//   },
+//   {
+//     "questionno": "5",
+//     "question": "Love apple भन्नाले के बुझिन्छ ?	",
+//     "answer": "गोलभेडा"
+//   },
+//   {
+//     "questionno": "6",
+//     "question": "खानेनुनको रासायनिक नाम के हो ?",
+//     "answer": "सोडियम क्लोराइड"
+//   },
+//   {
+//     "questionno": "7",
+//     "question": "चश्माको पावर नाप्ने इकाइलाई के भनिन्छ ?",
+//     "answer": "डायोप्टर"
+//   },
+//   {
+//     "questionno": "8",
+//     "question": "ऊँ कुन कुन अक्षर मिलेर बनेको हुन्छ ?",
+//     "answer": "‘अ’‚ ‘उ’‚ ‘म’"
+//   },
+//   {
+//     "questionno": "9",
+//     "question":
+//         "विश्वको सबैभन्दा सानो चरा ‘बी हमिङ वर्ड’ को तौल लगभग कति हुन्छ ?",
+//     "answer": "१.६ ग्राम"
+//   },
+//   {
+//     "questionno": "10",
+//     "question": "पञ्चामृत के के मिसाएर बनाइन्छ ?",
+//     "answer": "दुध‚ दही‚ घ्यू‚ मह र सख्खर"
+//   },
+//   {
+//     "questionno": "11",
+//     "question":
+//         "आजलाई अंग्रेजी भाषामा today भनिन्छ भने आजलाई गणितिय भाषामा के भन्निछ ?",
+//     "answer": "२०८१/०९/११"
+//   },
+//   {
+//     "questionno": "12",
+//     "question": "शरिरको सबैभन्दा बलियो भाग कुन हो ?",
+//     "answer": "दाँत"
+//   },
+//   {
+//     "questionno": "13",
+//     "question": "४०० मा किनेको सामानलाई ३०० मा वेच्दा कति प्रतिशत घाटा हुन्छ ?",
+//     "answer": "२५%"
+//   },
+//   {
+//     "questionno": "14",
+//     "question": "नेपालको संविधान २०७२ कहिले जारी भयो ?",
+//     "answer": "२०७२ असोज ३"
+//   },
+//   {
+//     "questionno": "15",
+//     "question": "४ मा ८ जोडेर २ घटाई १८ जोडी २ ले गुणन गर्दा कति हुन्छ ?",
+//     "answer": "५६"
+//   },
+//   {
+//     "questionno": "16",
+//     "question": "१ दिनमा कति मिनेट हुन्छ ?",
+//     "answer": "१४४० मिनेट"
+//   },
+//   {
+//     "questionno": "17",
+//     "question": "१५ cm लम्बाई भएको वर्गाकार रुमालको परिमिति कति हुन्छ ?	",
+//     "answer": "६० cm"
+//   },
+//   {
+//     "questionno": "18",
+//     "question": "नेपालका प्रथम राष्ट्रपति को हुन् ?",
+//     "answer": "डा. रामवरण यादव"
+//   },
+//   {
+//     "questionno": "19",
+//     "question":
+//         "मातातिर्थ औंसी वैशाख कृष्ण औंसीमा पर्छ भने कुशे औंसी कहिले पर्छ ?",
+//     "answer": "भाद्र कृष्ण औंसी"
+//   },
+//   {
+//     "questionno": "20",
+//     "question": "सुनको सद्धता केमा नापिन्छ ?",
+//     "answer": "क्यारेट"
+//   }, //Field IT (technology)
+// ];
 
-  // ------------------ SET 2 --------------------//
-  final List<Map<String, String>> QuestionList = [
-    {"questionno": "", "question": "", "answer": ""},
-    {
-      "questionno": "1",
-      "question": "30 बाट 15.05 घटाउदा कति हुन्छ ?",
-      "answer": "14.95"
-    },
-    {
-      "questionno": "2",
-      "question":
-          "गणतन्त्र दिवस जेठ १५ मा मानइन्छ भने राष्ट्रिय वाल दिवस कहिले मनाइन्छ ?",
-      "answer": "भाद्र २९"
-    },
-    {
-      "questionno": "3",
-      "question":
-          "सामाजिक शब्दलाई समाज + इक लेखिए जस्तै शैक्षिक शब्दलाई के लेखिन्छ ?",
-      "answer": "शिक्षा + इक"
-    },
-    {
-      "questionno": "4",
-      "question": "कति डेसिबल भन्दा चर्को ध्वनीमा मानिस बसेमा मृत्यु हुन सक्छ ?",
-      "answer": "१८० डेसिबल"
-    },
-    {
-      "questionno": "5",
-      "question": "अल्कोहल सेवन गरे नगरेको जाच्ने यन्त्रलाई के भनिन्छ ?",
-      "answer": "व्रेथलाइजर"
-    },
-    {
-      "questionno": "6",
-      "question": "What is the full form या ANFA?",
-      "answer": "All Nepal Football Association"
-    },
-    {
-      "questionno": "7",
-      "question": "भेडाको वथानलाई वगाल भनिन्छ भने गाइको वथानलाई के भनिन्छ ?",
-      "answer": "गोकुल"
-    },
-    {
-      "questionno": "8",
-      "question": "फोटोकपीलाई नेपालीमा के भनिन्छ ?",
-      "answer": "छाँयाप्रति"
-    },
-    {
-      "questionno": "9",
-      "question": "How many chromosomes are found in dog?",
-      "answer": "78 chromosomes and 38 pairs"
-    },
-    {
-      "questionno": "10",
-      "question": "दुईवटा देशको राष्ट्रिय गान रचना गर्ने एउटै कपि को हुन् ?",
-      "answer": "रविन्द्रनाथ तेगोर"
-    },
-    {
-      "questionno": "11",
-      "question": "पानिभित्रको आवाज नाप्ने यन्त्रलाई के भनिन्छ ?",
-      "answer": "हाइड्रोफोन"
-    },
-    {
-      "questionno": "12",
-      "question": "पृथ्वीमा सबैभन्दा लामो दिन कुन हो ?",
-      "answer": "June 21"
-    },
-    {
-      "questionno": "13",
-      "question": "अन्तराष्ट्रिय साक्षरता दिवस कहिले मनाइन्छ",
-      "answer": "September 8"
-    },
-    {
-      "questionno": "14",
-      "question":
-          "सार्क राष्ट्रहरूमा समलिङगी विवहालाई मान्यता दिने एकमात्र राष्ट्र कुन हो ?",
-      "answer": "नेपाल"
-    },
-    {
-      "questionno": "15",
-      "question": "नेपालको राष्ट्रिय गानमा कति शब्द र कति अक्षर छन् ?	",
-      "answer": "४६ शब्द‚ १२८ अक्षर"
-    },
-    {
-      "questionno": "16",
-      "question": "नेपालको सबैभन्दा होचो भाग कुन हो ?",
-      "answer": "मुसहर्निया"
-    },
-    {
-      "questionno": "17",
-      "question": "मानव मस्तिकमा कति मिलिग्राम तामा रहेको हुन्छ ?",
-      "answer": "६ मिलिग्राम"
-    },
-    {
-      "questionno": "18",
-      "question":
-          "नेपालको संविधानमा २०७२ मा कति भाग‚ धारा र अनुसुचीहरू रहेका छन् ?",
-      "answer": "३५ भाग ३०८ धारा ९ अनुसुची"
-    },
-    {
-      "questionno": "19",
-      "question": "नेपालको प्रमाविक समय कहिले देखि निर्धारण गरिएको हो ?",
-      "answer": "२०४२ वैशाख १"
-    },
-    {
-      "questionno": "20",
-      "question": "गण्डकी प्रदेशमा कतिवटा जिल्लाहरू रहेका छन् ?",
-      "answer": "११ वटा"
-    },
-  ];
+// ------------------ SET 2 --------------------//
+final List<Map<String, String>> QuestionList = [
+  {"questionno": "", "question": "", "answer": ""},
+  {
+    "questionno": "1",
+    "question": "30 बाट 15.05 घटाउदा कति हुन्छ ?",
+    "answer": "14.95"
+  },
+  {
+    "questionno": "2",
+    "question":
+        "गणतन्त्र दिवस जेठ १५ मा मानइन्छ भने राष्ट्रिय वाल दिवस कहिले मनाइन्छ ?",
+    "answer": "भाद्र २९"
+  },
+  {
+    "questionno": "3",
+    "question":
+        "सामाजिक शब्दलाई समाज + इक लेखिए जस्तै शैक्षिक शब्दलाई के लेखिन्छ ?",
+    "answer": "शिक्षा + इक"
+  },
+  {
+    "questionno": "4",
+    "question": "कति डेसिबल भन्दा चर्को ध्वनीमा मानिस बसेमा मृत्यु हुन सक्छ ?",
+    "answer": "१८० डेसिबल"
+  },
+  {
+    "questionno": "5",
+    "question": "अल्कोहल सेवन गरे नगरेको जाच्ने यन्त्रलाई के भनिन्छ ?",
+    "answer": "व्रेथलाइजर"
+  },
+  {
+    "questionno": "6",
+    "question": "What is the full form या ANFA?",
+    "answer": "All Nepal Football Association"
+  },
+  {
+    "questionno": "7",
+    "question": "भेडाको वथानलाई वगाल भनिन्छ भने गाइको वथानलाई के भनिन्छ ?",
+    "answer": "गोकुल"
+  },
+  {
+    "questionno": "8",
+    "question": "फोटोकपीलाई नेपालीमा के भनिन्छ ?",
+    "answer": "छाँयाप्रति"
+  },
+  {
+    "questionno": "9",
+    "question": "How many chromosomes are found in dog?",
+    "answer": "78 chromosomes and 38 pairs"
+  },
+  {
+    "questionno": "10",
+    "question": "दुईवटा देशको राष्ट्रिय गान रचना गर्ने एउटै कपि को हुन् ?",
+    "answer": "रविन्द्रनाथ तेगोर"
+  },
+  {
+    "questionno": "11",
+    "question": "पानिभित्रको आवाज नाप्ने यन्त्रलाई के भनिन्छ ?",
+    "answer": "हाइड्रोफोन"
+  },
+  {
+    "questionno": "12",
+    "question": "पृथ्वीमा सबैभन्दा लामो दिन कुन हो ?",
+    "answer": "June 21"
+  },
+  {
+    "questionno": "13",
+    "question": "अन्तराष्ट्रिय साक्षरता दिवस कहिले मनाइन्छ",
+    "answer": "September 8"
+  },
+  {
+    "questionno": "14",
+    "question":
+        "सार्क राष्ट्रहरूमा समलिङगी विवहालाई मान्यता दिने एकमात्र राष्ट्र कुन हो ?",
+    "answer": "नेपाल"
+  },
+  {
+    "questionno": "15",
+    "question": "नेपालको राष्ट्रिय गानमा कति शब्द र कति अक्षर छन् ?	",
+    "answer": "४६ शब्द‚ १२८ अक्षर"
+  },
+  {
+    "questionno": "16",
+    "question": "नेपालको सबैभन्दा होचो भाग कुन हो ?",
+    "answer": "मुसहर्निया"
+  },
+  {
+    "questionno": "17",
+    "question": "मानव मस्तिकमा कति मिलिग्राम तामा रहेको हुन्छ ?",
+    "answer": "६ मिलिग्राम"
+  },
+  {
+    "questionno": "18",
+    "question":
+        "नेपालको संविधानमा २०७२ मा कति भाग‚ धारा र अनुसुचीहरू रहेका छन् ?",
+    "answer": "३५ भाग ३०८ धारा ९ अनुसुची"
+  },
+  {
+    "questionno": "19",
+    "question": "नेपालको प्रमाविक समय कहिले देखि निर्धारण गरिएको हो ?",
+    "answer": "२०४२ वैशाख १"
+  },
+  {
+    "questionno": "20",
+    "question": "गण्डकी प्रदेशमा कतिवटा जिल्लाहरू रहेका छन् ?",
+    "answer": "११ वटा"
+  },
+];
 
   // ------------------ SET 3 --------------------//
   // final List<Map<String, String>> QuestionList = [
@@ -486,105 +486,107 @@
   // ];
 
 
-  // ------------------ SET 10 --------------------//
-  // final List<Map<String, String>> QuestionList = [
-  //   {"questionno": "", "question": "", "answer": ""},
-  //   {"questionno": "1", "question": "", "answer": ""},
-  //   {"questionno": "2", "question": "", "answer": ""},
-  //   {"questionno": "3", "question": "", "answer": ""},
-  //   {"questionno": "4", "question": "", "answer": ""},
-  //   {"questionno": "5", "question": "", "answer": ""},
-  //   {"questionno": "6", "question": "", "answer": ""},
-  //   {"questionno": "7", "question": "", "answer": ""},
-  //   {"questionno": "8", "question": "", "answer": ""},
-  //   {"questionno": "9", "question": "", "answer": ""},
-  //   {"questionno": "10", "question": "", "answer": ""},
-  //   {"questionno": "11", "question": "", "answer": ""},
-  //   {"questionno": "12", "question": "", "answer": ""},
-  //   {"questionno": "13", "question": "", "answer": ""},
-  //   {"questionno": "14", "question": "", "answer": ""},
-  //   {"questionno": "15", "question": "", "answer": ""},
-  //   {"questionno": "16", "question": "", "answer": ""},
-  //   {"questionno": "17", "question": "", "answer": ""},
-  //   {"questionno": "18", "question": "", "answer": ""},
-  //   {"questionno": "19", "question": "", "answer": ""},
-  //   {"questionno": "20", "question": "", "answer": ""},
-  // ];
+// ------------------ SET 10 --------------------//
+// final List<Map<String, String>> QuestionList = [
+//   {"questionno": "", "question": "", "answer": ""},
+//   {"questionno": "1", "question": "नेपालको औषत लम्बाई र चौडाइ कति छ?", "answer": "लम्बाई ८८५ किमि चौडाइ १९३ किमी"},
+//   {"questionno": "2", "question": "नेपालको सबैभन्दा धेरै गर्मी हुने ठाउँ कुन हो?", "answer": "नेपालगञ्ज"},
+//   {"questionno": "3", "question": "विश्व सम्पदा सूचीमा परेको नेपालका सम्पदाहरु कतिवटा छन्?", "answer": "४ वटा"},
+//   {"questionno": "4", "question": "रानी पोखरीको पुरानो नाम के हो?", "answer": "विष्ण तीर्थ"},
+//   {"questionno": "5", "question": "नेपालमा सति प्रथाको अन्त्य कहिले भएको थियो?", "answer": "वि.स. १९७७"},
+//   {"questionno": "6", "question": "७५ वर्षमा मनाइने उत्सवलाई के भनिन्छ?", "answer": "हिरक जयन्ती"},
+//   {"questionno": "7", "question": "एसिया महादेशमा कतिवटा राष्ट्र भुपरिवेष्ठित रहेका छन्?", "answer": "१२ वटा"},
+//   {"questionno": "8", "question": "पृथ्वीलाई आफ्नो अक्षमा एक पटक घुम्न कति समय लाग्छ?", "answer": "२३ घण्टा ५६ ‌मिनेट ४.०९ सेकेन्ड"},
+//   {"questionno": "9", "question": "विश्वको सबै भन्दा अग्लो स्थानमा रहेको सहरको नाम के हो?", "answer": "ल्हासा (तिब्बत, चीन)"},
+//   {"questionno": "10", "question": "हात मिलाउने चलन कहाँवाट सुरु भएको हो?", "answer": "ग्रीस"},
+//   {"questionno": "11", "question": "हिटलर र नेपोलियनमा कुन एक कुरा समानता थियो?", "answer": "दुवैको जन्मदै दाँत आएका थियो।"},
+//   {"questionno": "12", "question": "सर्वप्रथम कागज‌को प्रचलन ल्याउने राष्ट्र कुन हो?", "answer": "चीन"},
+//   {"questionno": "13", "question": "सबैभन्दा पहिले आरोहण प्रयास गरिएको हिमाल कुन हो?", "answer": "अन्नपूर्ण प्रथम"},
+//   {"questionno": "14", "question": "सगरमाथा प्रवेशद्वारको नाम के हो?", "answer": "नाम्चे बजार"},
+//   {"questionno": "15", "question": "पृथ्वीबाट सबैभन्दा नजिकको तारा कुन हो?", "answer": "सूर्य"},
+//   {"questionno": "16", "question": "फलामको परमाणु संख्या कति हुन्छ?", "answer": "छब्बीस (२६)"},
+//   {"questionno": "17", "question": "तापको परिमाण नाप्ने यन्त्रलाई के भनिन्छ?", "answer": "calorimeter"},
+//   {"questionno": "18", "question": "फलफूलहरुको अध्ययन गर्ने विज्ञानलाई के भनिन्छ?", "answer": "pomology (पोमोलोजी)"},
+//   {"questionno": "19", "question": "नेपाली धर्म तथा संस्कृति अनुसार त्रिफला भनेर कुन कुन फललाई चिनिन्छ?", "answer": "हर्रो, बर्रो र अमला"},
+//   {"questionno": "20", "question": "भगवान बुद्धले पहिरिने गेरु बस्त्रलाई के भनिन्छ?", "answer": "चिबर"}
+// ];
 
-  // ------------------ SET 11 --------------------//
-  // final List<Map<String, String>> QuestionList = [
-  //   {"questionno": "", "question": "", "answer": ""},
-  //   {"questionno": "1", "question": "", "answer": ""},
-  //   {"questionno": "2", "question": "", "answer": ""},
-  //   {"questionno": "3", "question": "", "answer": ""},
-  //   {"questionno": "4", "question": "", "answer": ""},
-  //   {"questionno": "5", "question": "", "answer": ""},
-  //   {"questionno": "6", "question": "", "answer": ""},
-  //   {"questionno": "7", "question": "", "answer": ""},
-  //   {"questionno": "8", "question": "", "answer": ""},
-  //   {"questionno": "9", "question": "", "answer": ""},
-  //   {"questionno": "10", "question": "", "answer": ""},
-  //   {"questionno": "11", "question": "", "answer": ""},
-  //   {"questionno": "12", "question": "", "answer": ""},
-  //   {"questionno": "13", "question": "", "answer": ""},
-  //   {"questionno": "14", "question": "", "answer": ""},
-  //   {"questionno": "15", "question": "", "answer": ""},
-  //   {"questionno": "16", "question": "", "answer": ""},
-  //   {"questionno": "17", "question": "", "answer": ""},
-  //   {"questionno": "18", "question": "", "answer": ""},
-  //   {"questionno": "19", "question": "", "answer": ""},
-  //   {"questionno": "20", "question": "", "answer": ""},
-  // ];
 
-  // ------------------ SET 12 --------------------//
-  // final List<Map<String, String>> QuestionList = [
-  //   {"questionno": "", "question": "", "answer": ""},
-  //   {"questionno": "1", "question": "", "answer": ""},
-  //   {"questionno": "2", "question": "", "answer": ""},
-  //   {"questionno": "3", "question": "", "answer": ""},
-  //   {"questionno": "4", "question": "", "answer": ""},
-  //   {"questionno": "5", "question": "", "answer": ""},
-  //   {"questionno": "6", "question": "", "answer": ""},
-  //   {"questionno": "7", "question": "", "answer": ""},
-  //   {"questionno": "8", "question": "", "answer": ""},
-  //   {"questionno": "9", "question": "", "answer": ""},
-  //   {"questionno": "10", "question": "", "answer": ""},
-  //   {"questionno": "11", "question": "", "answer": ""},
-  //   {"questionno": "12", "question": "", "answer": ""},
-  //   {"questionno": "13", "question": "", "answer": ""},
-  //   {"questionno": "14", "question": "", "answer": ""},
-  //   {"questionno": "15", "question": "", "answer": ""},
-  //   {"questionno": "16", "question": "", "answer": ""},
-  //   {"questionno": "17", "question": "", "answer": ""},
-  //   {"questionno": "18", "question": "", "answer": ""},
-  //   {"questionno": "19", "question": "", "answer": ""},
-  //   {"questionno": "20", "question": "", "answer": ""},
-  // ];
+// ------------------ SET 11 --------------------//
+// final List<Map<String, String>> QuestionList = [
+//   {"questionno": "", "question": "", "answer": ""},
+//   {"questionno": "1", "question": "विश्व एड्स दिवस कहिले मनाइन्छ?", "answer": "डिसेम्बर -१"},
+//   {"questionno": "2", "question": "गोपाल वंशीहरुको शासन केन्द्र कहाँ रहेको थियो?", "answer": "माता तीर्थ"},
+//   {"questionno": "3", "question": "समाजलाई ४ वर्ण ३६ जातमा विभाजन गर्ने राजा को हुन्?", "answer": "जयस्थिति मल्ल"},
+//   {"questionno": "4", "question": "राणा उपाधि धारण गर्ने पहिलो प्रधानमंत्री को हुन्?", "answer": "जंगबहादुर राणा"},
+//   {"questionno": "5", "question": "वर्तमान समयका नेपालका उपराष्ट्रपति को हुनुहुन्छ?", "answer": "रामसहाय प्रसाद यादव"},
+//   {"questionno": "6", "question": "नेपाली वास्तुविद अरनिको, अर्को कुन नामले पनि चिनिन्छन्?", "answer": "बलबाहु"},
+//   {"questionno": "7", "question": "कोशी, गण्डकी र कर्णाली कुन स्तरका नदी हुन्?", "answer": "प्रथम स्तरका (पहिलो)"},
+//   {"questionno": "8", "question": "फेवाताल नेपालको कुन स्थानीय तहमा पर्दछ?", "answer": "पोखरा महानगरपालिका"},
+//   {"questionno": "9", "question": "तोरीको लागि प्रसिद्ध ठाँउ कुन हो?", "answer": "चितवन"},
+//   {"questionno": "10", "question": "निजी क्षेत्रबाट निर्माण भएको पहिलो नेपाली चलचित्र कुन हो?", "answer": "माईतीघर"},
+//   {"questionno": "11", "question": "नेपाल सरकारबाट प्राविधिक धार अनुमति प्राप्त गरी प्राविधिकधार संचालित ब्रह्मरुपा मा.वि. पोखरा महानगरपालिकाको कति नम्बर वडामा पर्दछ?", "answer": "वडा नं.३२"},
+//   {"questionno": "12", "question": "राष्ट्रकवि भनेर कसलाई चिनिन्छ?", "answer": "माधव प्रसाद घिमिरे"},
+//   {"questionno": "13", "question": "\"न्याय नपाए गोरखा जानू\" भन्ने उखान कसको पालादेखी चलेको हो?", "answer": "राम शाह"},
+//   {"questionno": "14", "question": "'फुटवलका जादुगर' भनी चिनिने खेलाडी को हुन्?", "answer": "पेले"},
+//   {"questionno": "15", "question": "नेपालसंग सर्वप्रथम दौत्य सम्वन्ध कायम भएको देश कुन हो?", "answer": "बेलायत"},
+//   {"questionno": "16", "question": "रोमको सभ्यता कुन नदीको किनारमा विकसित भएको हो?", "answer": "टाइवर"},
+//   {"questionno": "17", "question": "दुवै आँखा नभएकोलाई अन्धो भनिन्छ भने एउटा आँखा नभएकोलाई के भनिन्छ?", "answer": "कानो"},
+//   {"questionno": "18", "question": "रातो रङ र हरियो रङ मिसाउदा कुन रङ बन्दछ?", "answer": "कालो"},
+//   {"questionno": "19", "question": "नेपालको मरुभूमि भनेर कुन जिल्लालाई चिनिन्छ?", "answer": "मुस्ताङ"},
+//   {"questionno": "20", "question": "जाँतोलाई घुमाउन प्रयोग गरिने काठको साधनलाई के भनिन्छ?", "answer": "हातो"}
+// ];
+
+
+// ------------------ SET 12 --------------------//
+// final List<Map<String, String>> QuestionList = [
+//   {"questionno": "", "question": "", "answer": ""},
+//   {"questionno": "1", "question": "हेमन्त ऋतुले कुन कुन महिनालाई प्रतिनिधित्व गर्दछ?", "answer": "मङ्सिर र पुष"},
+//   {"questionno": "2", "question": "कुन सङ्‌ख्याको ८० प्रतिशतमा ४ जोड्दा त्यही नै हुन्छ?", "answer": "२०"},
+//   {"questionno": "3", "question": "जाँतोलाई घुमाउन प्रयोग गरिने काठको साधनलाई के भनिन्छ?", "answer": "हातो"},
+//   {"questionno": "4", "question": "नेपालको मरुभूमि भनेर कुन जिल्लालाई चिनिन्छ?", "answer": "मुस्ताङ"},
+//   {"questionno": "5", "question": "रातो रङ र हरियो रङ मिसाउदा कुन रङ बन्दछ?", "answer": "कालो"},
+//   {"questionno": "6", "question": "दुवै आँखा नभएकोलाई अन्धो भनिन्छ भने एउटा आँखा नभएकोलाई के भनिन्छ?", "answer": "कानो"},
+//   {"questionno": "7", "question": "रोमको सभ्यता कुन नदीको किनारमा विकसित भएको हो?", "answer": "टाइवर"},
+//   {"questionno": "8", "question": "नेपालसंग सर्वप्रथम दौत्य सम्वन्ध कायम भएको देश कुन हो?", "answer": "बेलायत"},
+//   {"questionno": "9", "question": "'फुटवलका जादुगर' भनी चिनिने खेलाडी को हुन्?", "answer": "पेले"},
+//   {"questionno": "10", "question": "\"न्याय नपाए गोरखा जानू\" भन्ने उखान कसको पालादेखी चलेको हो?", "answer": "राम शाह"},
+//   {"questionno": "11", "question": "राष्ट्रकवि भनेर कसलाई चिनिन्छ?", "answer": "माधव प्रसाद घिमिरे"},
+//   {"questionno": "12", "question": "निजी क्षेत्रबाट निर्माण भएको पहिलो नेपाली चलचित्र कुन हो?", "answer": "माईतीघर"},
+//   {"questionno": "13", "question": "तोरीको लागि प्रसिद्ध ठाँउ कुन हो?", "answer": "चितवन"},
+//   {"questionno": "14", "question": "फेवाताल नेपालको कुन स्थानीय तहमा पर्दछ?", "answer": "पोखरा महानगरपालिका"},
+//   {"questionno": "15", "question": "कोशी, गण्डकी र कर्णाली कुन स्तरका नदी हुन्?", "answer": "प्रथम स्तरका (पहिलो)"},
+//   {"questionno": "16", "question": "नेपाली वास्तुविद अरनिको, अर्को कुन नामले पनि चिनिन्छन्?", "answer": "बलबाहु"},
+//   {"questionno": "17", "question": "वर्तमान समयका नेपालका उपराष्ट्रपति को हुनुहुन्छ?", "answer": "रामसहाय प्रसाद यादव"},
+//   {"questionno": "18", "question": "राणा उपाधि धारण गर्ने पहिलो प्रधानमंत्री को हुन्?", "answer": "जंगबहादुर राणा"},
+//   {"questionno": "19", "question": "समाजलाई ४ वर्ण ३६ जातमा विभाजन गर्ने राजा को हुन्?", "answer": "जयस्थिति मल्ल"},
+//   {"questionno": "20", "question": "गोपाल वंशीहरुको शासन केन्द्र कहाँ रहेको थियो?", "answer": "माता तीर्थ"}
+// ];
 
   // ------------------ SET 13 --------------------//
-  // final List<Map<String, String>> QuestionList = [
-  //   {"questionno": "", "question": "", "answer": ""},
-  //   {"questionno": "1", "question": "", "answer": ""},
-  //   {"questionno": "2", "question": "", "answer": ""},
-  //   {"questionno": "3", "question": "", "answer": ""},
-  //   {"questionno": "4", "question": "", "answer": ""},
-  //   {"questionno": "5", "question": "", "answer": ""},
-  //   {"questionno": "6", "question": "", "answer": ""},
-  //   {"questionno": "7", "question": "", "answer": ""},
-  //   {"questionno": "8", "question": "", "answer": ""},
-  //   {"questionno": "9", "question": "", "answer": ""},
-  //   {"questionno": "10", "question": "", "answer": ""},
-  //   {"questionno": "11", "question": "", "answer": ""},
-  //   {"questionno": "12", "question": "", "answer": ""},
-  //   {"questionno": "13", "question": "", "answer": ""},
-  //   {"questionno": "14", "question": "", "answer": ""},
-  //   {"questionno": "15", "question": "", "answer": ""},
-  //   {"questionno": "16", "question": "", "answer": ""},
-  //   {"questionno": "17", "question": "", "answer": ""},
-  //   {"questionno": "18", "question": "", "answer": ""},
-  //   {"questionno": "19", "question": "", "answer": ""},
-  //   {"questionno": "20", "question": "", "answer": ""},
-  // ];
+// final List<Map<String, String>> QuestionList = [
+//   {"questionno": "1", "question": "विश्व एड्स दिवस कहिले मनाइन्छ?", "answer": "डिसेम्बर -१"},
+//   {"questionno": "2", "question": "नेपाल सरकारबाट प्राविधिक धार अनुमति प्राप्त गरी प्राविधिकधार संचालित ब्रह्मरुपा मा.वि. पोखरा महानगरपालिकाको कति नम्बर वडामा पर्दछ?", "answer": "वडा नं.३२"},
+//   {"questionno": "3", "question": "नेपालको मरुभूमि भनेर कुन जिल्लालाई चिनिन्छ?", "answer": "मुस्ताङ"},
+//   {"questionno": "4", "question": "हेमन्त ऋतुले कुन कुन महिनालाई प्रतिनिधित्व गर्दछ?", "answer": "मङ्सिर र पुष"},
+//   {"questionno": "5", "question": "निजी क्षेत्रबाट निर्माण भएको पहिलो नेपाली चलचित्र कुन हो?", "answer": "माईतीघर"},
+//   {"questionno": "6", "question": "नेपालसंग सर्वप्रथम दौत्य सम्वन्ध कायम भएको देश कुन हो?", "answer": "बेलायत"},
+//   {"questionno": "7", "question": "'फुटवलका जादुगर' भनी चिनिने खेलाडी को हुन्?", "answer": "पेले"},
+//   {"questionno": "8", "question": "तोरीको लागि प्रसिद्ध ठाँउ कुन हो?", "answer": "चितवन"},
+//   {"questionno": "9", "question": "फेवाताल नेपालको कुन स्थानीय तहमा पर्दछ?", "answer": "पोखरा महानगरपालिका"},
+//   {"questionno": "10", "question": "कोशी, गण्डकी र कर्णाली कुन स्तरका नदी हुन्?", "answer": "प्रथम स्तरका (पहिलो)"},
+//   {"questionno": "11", "question": "नेपाली वास्तुविद अरनिको, अर्को कुन नामले पनि चिनिन्छन्?", "answer": "बलबाहु"},
+//   {"questionno": "12", "question": "रोमको सभ्यता कुन नदीको किनारमा विकसित भएको हो?", "answer": "टाइवर"},
+//   {"questionno": "13", "question": "नेपाल सरकारबाट प्राविधिक धार अनुमति प्राप्त गरी प्राविधिकधार संचालित ब्रह्मरुपा मा.वि. पोखरा महानगरपालिकाको कति नम्बर वडामा पर्दछ?", "answer": "वडा नं.३२"},
+//   {"questionno": "14", "question": "जाँतोलाई घुमाउन प्रयोग गरिने काठको साधनलाई के भनिन्छ?", "answer": "हातो"},
+//   {"questionno": "15", "question": "नेपालको मरुभूमि भनेर कुन जिल्लालाई चिनिन्छ?", "answer": "मुस्ताङ"},
+//   {"questionno": "16", "question": "रातो रङ र हरियो रङ मिसाउदा कुन रङ बन्दछ?", "answer": "कालो"},
+//   {"questionno": "17", "question": "दुवै आँखा नभएकोलाई अन्धो भनिन्छ भने एउटा आँखा नभएकोलाई के भनिन्छ?", "answer": "कानो"},
+//   {"questionno": "18", "question": "\"न्याय नपाए गोरखा जानू\" भन्ने उखान कसको पालादेखी चलेको हो?", "answer": "राम शाह"},
+//   {"questionno": "19", "question": "समाजलाई ४ वर्ण ३६ जातमा विभाजन गर्ने राजा को हुन्?", "answer": "जयस्थिति मल्ल"},
+//   {"questionno": "20", "question": "गोपाल वंशीहरुको शासन केन्द्र कहाँ रहेको थियो?", "answer": "माता तीर्थ"}
+// ];
+
 
   // ------------------ SET 14 --------------------//
   // final List<Map<String, String>> QuestionList = [
