@@ -563,57 +563,33 @@ final List<Map<String, String>> QuestionList = [
 //   {"questionno": "20", "question": "गोपाल वंशीहरुको शासन केन्द्र कहाँ रहेको थियो?", "answer": "माता तीर्थ"}
 // ];
 
-  // ------------------ SET 13 --------------------//
+// ------------------ SET 13 --------------------//
 // final List<Map<String, String>> QuestionList = [
-//   {"questionno": "1", "question": "विश्व एड्स दिवस कहिले मनाइन्छ?", "answer": "डिसेम्बर -१"},
-//   {"questionno": "2", "question": "नेपाल सरकारबाट प्राविधिक धार अनुमति प्राप्त गरी प्राविधिकधार संचालित ब्रह्मरुपा मा.वि. पोखरा महानगरपालिकाको कति नम्बर वडामा पर्दछ?", "answer": "वडा नं.३२"},
-//   {"questionno": "3", "question": "नेपालको मरुभूमि भनेर कुन जिल्लालाई चिनिन्छ?", "answer": "मुस्ताङ"},
-//   {"questionno": "4", "question": "हेमन्त ऋतुले कुन कुन महिनालाई प्रतिनिधित्व गर्दछ?", "answer": "मङ्सिर र पुष"},
-//   {"questionno": "5", "question": "निजी क्षेत्रबाट निर्माण भएको पहिलो नेपाली चलचित्र कुन हो?", "answer": "माईतीघर"},
-//   {"questionno": "6", "question": "नेपालसंग सर्वप्रथम दौत्य सम्वन्ध कायम भएको देश कुन हो?", "answer": "बेलायत"},
-//   {"questionno": "7", "question": "'फुटवलका जादुगर' भनी चिनिने खेलाडी को हुन्?", "answer": "पेले"},
-//   {"questionno": "8", "question": "तोरीको लागि प्रसिद्ध ठाँउ कुन हो?", "answer": "चितवन"},
-//   {"questionno": "9", "question": "फेवाताल नेपालको कुन स्थानीय तहमा पर्दछ?", "answer": "पोखरा महानगरपालिका"},
-//   {"questionno": "10", "question": "कोशी, गण्डकी र कर्णाली कुन स्तरका नदी हुन्?", "answer": "प्रथम स्तरका (पहिलो)"},
-//   {"questionno": "11", "question": "नेपाली वास्तुविद अरनिको, अर्को कुन नामले पनि चिनिन्छन्?", "answer": "बलबाहु"},
-//   {"questionno": "12", "question": "रोमको सभ्यता कुन नदीको किनारमा विकसित भएको हो?", "answer": "टाइवर"},
-//   {"questionno": "13", "question": "नेपाल सरकारबाट प्राविधिक धार अनुमति प्राप्त गरी प्राविधिकधार संचालित ब्रह्मरुपा मा.वि. पोखरा महानगरपालिकाको कति नम्बर वडामा पर्दछ?", "answer": "वडा नं.३२"},
-//   {"questionno": "14", "question": "जाँतोलाई घुमाउन प्रयोग गरिने काठको साधनलाई के भनिन्छ?", "answer": "हातो"},
-//   {"questionno": "15", "question": "नेपालको मरुभूमि भनेर कुन जिल्लालाई चिनिन्छ?", "answer": "मुस्ताङ"},
-//   {"questionno": "16", "question": "रातो रङ र हरियो रङ मिसाउदा कुन रङ बन्दछ?", "answer": "कालो"},
-//   {"questionno": "17", "question": "दुवै आँखा नभएकोलाई अन्धो भनिन्छ भने एउटा आँखा नभएकोलाई के भनिन्छ?", "answer": "कानो"},
-//   {"questionno": "18", "question": "\"न्याय नपाए गोरखा जानू\" भन्ने उखान कसको पालादेखी चलेको हो?", "answer": "राम शाह"},
-//   {"questionno": "19", "question": "समाजलाई ४ वर्ण ३६ जातमा विभाजन गर्ने राजा को हुन्?", "answer": "जयस्थिति मल्ल"},
-//   {"questionno": "20", "question": "गोपाल वंशीहरुको शासन केन्द्र कहाँ रहेको थियो?", "answer": "माता तीर्थ"}
+
+//   {"questionno": "1", "question": "दोस्रो पटक विहे गर्ने महिलालाई के भनिन्छ ?", "answer": "हिरुदा"},
+//   {"questionno": "2", "question": "नेपालको दार्जिलिंग भनेर कुन ठाउँ वा जिल्लालाई चिनिन्छ?", "answer": "जुम्ला"},
+//   {"questionno": "3", "question": "कफी खेतीका लागि प्रसिद्ध जिल्ला कुन हो?", "answer": "गुल्मी"},
+//   {"questionno": "4", "question": "टाउकोमा गर्भाधारण जर्ने जीव कुन हो ?", "answer": "उडुस"},
+//   {"questionno": "5", "question": "जिब्रोबाट पसिना निकाल्ने जीव कुन हो?", "answer": "कुकुर"},
+//   {"questionno": "6", "question": "नेपालमा जम्मा वडाहरुको संख्या कति छ?", "answer": "६७४३"},
+//   {"questionno": "7", "question": "क्यान्सर रोगलाई नेपालीमा के भनिन्छ?", "answer": "अबुर्द रोग"},
+//   {"questionno": "8", "question": "कालो हिमाल भनेर नेपालको कुन हिमाललाई चिनिन्छ?", "answer": "मकालु"},
+//   {"questionno": "9", "question": "जिब्रो भएर पनि आवाज निकाल्न नसक्ने जनावर कुन हो?", "answer": "जिराफ"},
+//   {"questionno": "10", "question": "नेपालको पहिलो टेष्टट्युव बेबीको नाम के हो?", "answer": "ओम मणी तामांग"},
+//   {"questionno": "11", "question": "भालुपहाड नेपालको कुन जिल्लामा पर्दछ?", "answer": "स्यांग्जा"},
+//   {"questionno": "12", "question": "मानिसदेखी लाग्ने डर कुन हो?", "answer": "Anthrophobia"},
+//   {"questionno": "13", "question": "गणितका पिता भनेर कसलाई चिनिन्छ?", "answer": "आर्कमिडिज"},
+//   {"questionno": "14", "question": "त्यस्तो कुन चीज हो जसको Head पनि हुन्छ Tail पनि हुन्छ तर Body हुँदैन?", "answer": "सिक्का (Coin)"},
+//   {"questionno": "15", "question": "हिजोको पर्सी शनिबार हो भने आज कुन बार हो?", "answer": "शुक्रबार"},
+//   {"questionno": "16", "question": "नेपालको संविधान २०७२ अनुसार प्रधानमन्त्रीले राष्ट्रपति समक्ष सपथ ग्रहण गर्दछन् भने राष्ट्रपतिले को समक्ष सपथ ग्रहण गर्दछन्?", "answer": "प्रधानन्यायधीश"},
+//   {"questionno": "17", "question": "नेपालको इतिहासमै धोकेबाज नेता भनेर कसलाई चिनिन्छ?", "answer": "डा.तुलसी गिरी"},
+//   {"questionno": "18", "question": "नेपालको सबैभन्दा अग्लो स्थानबाट बग्ने नदी कुन हो?", "answer": "अरुण"},
+//   {"questionno": "19", "question": "चार पाथी चार माना आधा पाथी आठ माना बराबर कति पाथी हुन्छ?", "answer": "६ पाथी"},
+//   {"questionno": "20", "question": "वि.सं. २०८० सालको मदन पुरस्कार कसलाई प्रदान गरियो?", "answer": "मोहन मैनाली"},
 // ];
 
 
-  // ------------------ SET 14 --------------------//
-  // final List<Map<String, String>> QuestionList = [
-  //   {"questionno": "", "question": "", "answer": ""},
-  //   {"questionno": "1", "question": "", "answer": ""},
-  //   {"questionno": "2", "question": "", "answer": ""},
-  //   {"questionno": "3", "question": "", "answer": ""},
-  //   {"questionno": "4", "question": "", "answer": ""},
-  //   {"questionno": "5", "question": "", "answer": ""},
-  //   {"questionno": "6", "question": "", "answer": ""},
-  //   {"questionno": "7", "question": "", "answer": ""},
-  //   {"questionno": "8", "question": "", "answer": ""},
-  //   {"questionno": "9", "question": "", "answer": ""},
-  //   {"questionno": "10", "question": "", "answer": ""},
-  //   {"questionno": "11", "question": "", "answer": ""},
-  //   {"questionno": "12", "question": "", "answer": ""},
-  //   {"questionno": "13", "question": "", "answer": ""},
-  //   {"questionno": "14", "question": "", "answer": ""},
-  //   {"questionno": "15", "question": "", "answer": ""},
-  //   {"questionno": "16", "question": "", "answer": ""},
-  //   {"questionno": "17", "question": "", "answer": ""},
-  //   {"questionno": "18", "question": "", "answer": ""},
-  //   {"questionno": "19", "question": "", "answer": ""},
-  //   {"questionno": "20", "question": "", "answer": ""},
-  // ];
-
-  // ------------------ SET 15 --------------------//
+  // ------------------ SET backup --------------------//
   // final List<Map<String, String>> QuestionList = [
   //   {"questionno": "", "question": "", "answer": ""},
   //   {"questionno": "1", "question": "", "answer": ""},
