@@ -60,7 +60,19 @@ class _GeneralRoundState extends State<GeneralRound> {
                       height: 15,
                     ),
                     Text(
-                      '2. The time limit for each question is 45 seconds.',
+                      '2. Each participant/team can take turns to answer the questions.',
+                      style: TextStyle(
+                        fontSize: 24,
+                        fontFamily: 'sans',
+                        color: Colors.white,
+                      ),
+                      textAlign: TextAlign.left,
+                    ),
+                    SizedBox(
+                      height: 15,
+                    ),
+                    Text(
+                      '3. The time limit for each question is 45 seconds.',
                       style: TextStyle(
                         fontSize: 27,
                         fontFamily: 'sans',
