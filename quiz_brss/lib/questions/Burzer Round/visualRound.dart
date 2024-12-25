@@ -74,29 +74,29 @@
 // ];
 
 //  //-----------------SET 4-------------//
-final List<Map<String, String>> questions = [
-  {"question": "", "image": "null", "answer": ""},
-  {
-    "question": "What is the molecular formula of given compound?",
-    "answer": "H\u2082O",
-    "image": "assets/photo/flowingwater.mp4"
-  }, //(ans= H2O)(hint=water)
-  {
-    "question": "Who is this famous comedian?",
-    "image": "assets/photo/Ques 14 photo.jpg",
-    "answer": "Suman Karki"
-  }, //(ans=suman karki)(hints=performer of comedy club with champion)
-  {
-    "question": "Identify the person?",
-    "image": "assets/photo/Ques 15 photo.jpg",
-    "answer": "Harka Sampang"
-  }, //(ans=harka sampang)(hints=mayor of dharan)
-  {
-    "question": "What is the name of famous player displayed in image?",
-    "image": "assets/photo/ques no 16.jpg",
-    "answer": "Parash Khadka"
-  } // [Former circket captain] [Parash Khadka]
-];
+// final List<Map<String, String>> questions = [
+//   {"question": "", "image": "null", "answer": ""},
+//   {
+//     "question": "What is the molecular formula of given compound?",
+//     "answer": "H\u2082O",
+//     "image": "assets/photo/flowingwater.mp4"
+//   }, //(ans= H2O)(hint=water)
+//   {
+//     "question": "Who is this famous comedian?",
+//     "image": "assets/photo/Ques 14 photo.jpg",
+//     "answer": "Suman Karki"
+//   }, //(ans=suman karki)(hints=performer of comedy club with champion)
+//   {
+//     "question": "Identify the person?",
+//     "image": "assets/photo/Ques 15 photo.jpg",
+//     "answer": "Harka Sampang"
+//   }, //(ans=harka sampang)(hints=mayor of dharan)
+//   {
+//     "question": "What is the name of famous player displayed in image?",
+//     "image": "assets/photo/ques no 16.jpg",
+//     "answer": "Parash Khadka"
+//   } // [Former circket captain] [Parash Khadka]
+// ];
 
 //  //-----------------SET 5----------------//
 // final List<Map<String, String>> questions = [
@@ -245,74 +245,203 @@ final List<Map<String, String>> questions = [
 // -------------------------Set 4-----------------------
 // final List<Map<String, String>> questions = [
 //   {"question": "", "image": "null", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
+//   {
+//     "question": "यो कुन नेपाली ब्यान्डको members को फोटो हो?",
+//     "image": "../assets/photo/set4v1.jpg",
+//     "answer": "The Element"
+//   },
+//   {
+//     "question": "तस्बिरमा देखाइएको कसको फोटो हो",
+//     "image": "../assets/photo/set4v2.jpg",
+//     "answer": "	Ashma Kumari KC(Miss Nepal 2024)"
+//   },
+//   {
+//     "question": "Which movie is this video related to?",
+//     "image": "../assets/photo/set4v3.mp4",
+//     "answer": "12 gau"
+//   },
+//   {
+//     "question": "Which movie is this video related to?",
+//     "image": "../assets/photo/set4v3.mp4",
+//     "answer": "aincho paincho"
+//   },
 // ];
 
 // -------------------------Set 5-----------------------
 // final List<Map<String, String>> questions = [
 //   {"question": "", "image": "null", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
+//   {
+//     "question":
+//         "तस्बिरमा देखाइएको व्यक्ति नेपालका खेलाडी हुन् । उनको नाम के हो",
+//     "image": "../assets/photo/set5v1.jpg",
+//     "answer": "	Lalit Rajbanshi"
+//   },
+//   {
+//     "question": "तस्बिरमा देखाइएको व्यक्तिको नाम के हो",
+//     "image": "../assets/photo/set5v2.jpg",
+//     "answer": "Kiran Chemjong"
+//   },
+//   {
+//     "question": "Which band does the featured song    belong to?",
+//     "image": "../assets/photo/set5v1.jpg",
+//     "answer": "albatross"
+//   },
+//   {
+//     "question": "Which movie is this video related to?",
+//     "image": "../assets/photo/set5v1.jpg",
+//     "answer": "basudev"
+//   },
 // ];
 
 // -------------------------Set 6-----------------------
 // final List<Map<String, String>> questions = [
 //   {"question": "", "image": "null", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
+//   {
+//     "question": "तस्बिरमा देखाइएको व्यक्तिको नाम के हो",
+//     "image": "../assets/photo/set6v1.jpg",
+//     "answer": "Dhana Raj Acharya(Mayor of Pokhara )"
+//   },
+//   {
+//     "question": "तस्बिरमा देखाइएको व्यक्तिको नाम के हो",
+//     "image": "../assets/photo/set6v2.jpg",
+//     "answer": "Bidhya Bhattarai(Education Minister Of Nepal)"
+//   },
+//   {
+//     "question": "Which lake is the present video related to?",
+//     "image": "../assets/photo/set6v3.jpg",
+//     "answer": "begnas tal"
+//   },
+//   {
+//     "question": "What is the name of the main Actress of the presented video?",
+//     "image": "../assets/photo/set6v4.jpg",
+//     "answer": "Swostima khadka"
+//   },
 // ];
 
 // -------------------------Set 7-----------------------
 // final List<Map<String, String>> questions = [
 //   {"question": "", "image": "null", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
+//   {
+//     "question": "तस्बिरमा देखाइएको लोगो के को हो",
+//     "image": "../assets/photo/set7v1.jpg",
+//     "answer": "WHO(World Health Organization)"
+//   },
+//   {
+//     "question": "तस्बिरमा देखाइएको लोगोको नाम के हो?",
+//     "image": "../assets/photo/set7v2.jpg",
+//     "answer": "नेपालको निशान छाप "
+//   },
+//   {
+//     "question": "What is the name of singer of presented video.",
+//     "image": "../assets/photo/set7v3.mp4",
+//     "answer": "Deepak bajracharya"
+//   },
+//   {
+//     "question": "4.	Identify the name of featured gaming instrument.",
+//     "image": "../assets/photo/set7v4.mp4",
+//     "answer": "joystick"
+//   },
 // ];
 
 // -------------------------Set 8-----------------------
 // final List<Map<String, String>> questions = [
 //   {"question": "", "image": "null", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
+//   {
+//     "question": "तस्बिरमा देखाइएको ठाउँको नाम के हो",
+//     "image": "../assets/photo/set8v1.jpg",
+//     "answer": "हलेसी गुफा (खोटाङ्ग)"
+//   },
+//   {
+//     "question": "तस्बिरमा देखाइएको ठाउँको नाम के हो",
+//     "image": "../assets/photo/set8v2.jpg",
+//     "answer": "Kanchenjunga"
+//   },
+//   {
+//     "question": "Identify the temple.",
+//     "image": "../assets/photo/set8v3.mp4",
+//     "answer": "Bouddhanath temple"
+//   },
+//   {
+//     "question": "4.	What is the name of the acter presenting in video.",
+//     "image": "../assets/photo/set8v4.mp4",
+//     "answer": "Kiran KC"
+//   },
 // ];
 
 // -------------------------Set 9-----------------------
 // final List<Map<String, String>> questions = [
 //   {"question": "", "image": "null", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
+//   {
+//     "question": "तस्बिरमा देखाइएको मन्दिरको नाम के हो",
+//     "image": "../assets/photo/set9v1.jpg",
+//     "answer": "Muktinath Temple"
+//   },
+//   {
+//     "question": "तस्बिरमा देखाइएको मन्दिरको नाम के हो",
+//     "image": "../assets/photo/set9v2.jpg",
+//     "answer": "Surendra Raj Pandey(mukhya mantra of Gandaki province)"
+//   },
+//   {
+//     "question": "What is the name of the district in the presented video?",
+//     "image": "../assets/photo/set9v3.mp4",
+//     "answer": "Dolakha (kuri village)"
+//   },
+//   {
+//     "question": "What is the name of the player presenting in video.",
+//     "image": "../assets/photo/set9v4.mp4",
+//     "answer": "Lalit rajbansi"
+//   },
 // ];
 
 // -------------------------Set 10-----------------------
 // final List<Map<String, String>> questions = [
 //   {"question": "", "image": "null", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
+//   {
+//     "question": "Name the person shown in the picture.",
+//     "image": "../assets/photo/set10v1.jpg",
+//     "answer": "CA Maha Prasad Adhikari(Governor of  Nepal Rastra Bank 2024 )"
+//   },
+//   {
+//     "question": "Name the person shown in the picture.",
+//     "image": "../assets/photo/set10v2.jpg",
+//     "answer": "Shrinkhala Khatiwada(Miss Nepal  world 2018)"
+//   },
+//   {
+//     "question": "What is the name of singer of presented video.",
+//     "image": "../assets/photo/set10v3.mp4",
+//     "answer": "amrit gurung"
+//   },
+//   {
+//     "question": "Identify the name of player featured in picture.",
+//     "image": "../assets/photo/set10v4.jpg",
+//     "answer": "Aayush lama (Nofear ) pubg esports player."
+//   },
 // ];
 
 // -------------------------Set 11-----------------------
-// final List<Map<String, String>> questions = [
-//   {"question": "", "image": "null", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-// ];
+final List<Map<String, String>> questions = [
+  {"question": "", "image": "null", "answer": ""},
+  {
+    "question": "तस्बिरमा देखाइएको मुर्ती कसको हो ",
+    "image": "../assets/photo/set11v1.jpg",
+    "answer": "Kal Bhairab"
+  },
+  {
+    "question": "Identify the name of player featured in picture.",
+    "image": "../assets/photo/set11v2.jpg",
+    "answer": "sahas bhandari (killeryt )pubg esports player"
+  },
+  {
+    "question": "What is the real name of this famous celebrity?",
+    "image": "../assets/photo/set11v3.jpg",
+    "answer": "dwayne jhonson"
+  },
+  {
+    "question": "What is the name of singer of presented video.",
+    "image": "../assets/photo/set11v4.mp4",
+    "answer": "Raju pariyar"
+  },
+];
 
 // -------------------------Set 12-----------------------
 // final List<Map<String, String>> questions = [
