@@ -1,3 +1,4 @@
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:quiz_brss/FirstPage.dart';
@@ -24,16 +25,52 @@ class _endPageState extends State<endPage> {
               fit: BoxFit.cover,
             ),
             Center(
-              child: Text(
-                ' The END',
-                style: TextStyle(
-                  color: Colors.white,
-                  fontSize: 90.0,
-                  fontFamily: 'sans',
+                child: Column(
+              mainAxisAlignment: MainAxisAlignment.center,
+              crossAxisAlignment: CrossAxisAlignment.center,
+              children: [
+                // First Text: Thank you for your participation!
+                Text(
+                  'Thank you for your participation!',
+                  style: TextStyle(
+                    color: Colors.white,
+                    fontSize: 50.0, // Larger font for the thank you message
+                    fontFamily: 'sans',
+                    fontWeight: FontWeight.bold,
+                  ),
+                  textAlign: TextAlign.center,
                 ),
-                textAlign: TextAlign.center,
-              ),
-            ),
+                SizedBox(height: 20), // Space between the messages
+
+                // Second Text: Motivational Message
+                Text(
+                  'Remember, learning is a journey—keep moving forward, and great things will come.',
+                  style: TextStyle(
+                    color: Colors.white,
+                    fontSize:
+                        30.0, // Slightly smaller font for the motivational message
+                    fontFamily: 'sans',
+                    fontStyle: FontStyle.italic,
+                  ),
+                  textAlign: TextAlign.center,
+                ),
+                SizedBox(
+                    height:
+                        20), // Space between the motivational message and the next message
+
+                // Optional: Third Text (encouraging message)
+                Text(
+                  'We hope you learned something new!',
+                  style: TextStyle(
+                    color: Colors.white,
+                    fontSize: 30.0, // Size similar to the quote
+                    fontFamily: 'sans',
+                    fontWeight: FontWeight.normal,
+                  ),
+                  textAlign: TextAlign.center,
+                ),
+              ],
+            )),
             Positioned(
               bottom: 20.0,
               right: 20.0,

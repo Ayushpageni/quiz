@@ -1,17 +1,18 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:quiz_brss/Betting%20Round/Betting%20Round.dart';
+import 'package:quiz_brss/Puzzle%20Round/PuzzleChoice.dart';
 
 import '../Widgets/CircularButton2.dart';
-import 'RapidFireChoice.dart';
 
-class RapidFireRound extends StatefulWidget {
-  const RapidFireRound({super.key});
+class BettingRoundRule extends StatefulWidget {
+  const BettingRoundRule({super.key});
 
   @override
-  State<RapidFireRound> createState() => _RapidFireRoundState();
+  State<BettingRoundRule> createState() => _BettingRoundRuleState();
 }
 
-class _RapidFireRoundState extends State<RapidFireRound> {
+class _BettingRoundRuleState extends State<BettingRoundRule> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -28,11 +29,11 @@ class _RapidFireRoundState extends State<RapidFireRound> {
             Align(
               alignment: Alignment.topCenter,
               child: Padding(
-                padding: const EdgeInsets.only(top: 20.0),
+                padding: const EdgeInsets.only(top: 30.0),
                 child: Text(
-                  'Round 4: Rapid Fire Round: ',
+                  'Round 3: Betting Round: ',
                   style: TextStyle(
-                    fontSize: 50.0,
+                    fontSize: 36.0,
                     fontFamily: 'sans',
                     color: Colors.white,
                   ),
@@ -42,17 +43,13 @@ class _RapidFireRoundState extends State<RapidFireRound> {
             Align(
               alignment: Alignment.centerLeft,
               child: Padding(
-                padding: const EdgeInsets.all(16.0),
+                padding: const EdgeInsets.all(20.0),
                 child: Text(
-                  '1, This round tests participants ability to answer questions quickly. \n\n'
-                  '2, We will set a specific time limit for each question (10 seconds).\n\n'
-                  '3, The quizmaster fires a series of questions one after the other.\n\n'
-                  '4, Participants/teams must answer as many questions as possible within the time limit.\n\n'
-                  '5, Assign points for each correct answer (5 marks).\n\n'
-                  '6, No negative markings for incorrect answers.\n\n'
-                  '7, The question will be of the following categories: IT, Geography, History, Sports, Astronomy, Science, and Economy.',
+                  '1. There will be 1 question to each team\n\n'
+                  '2. All the participants will be given one minute to answer the question\n\n'
+                  '3. Group on their turn must bet for the marks 1-20 before showing the question,\n\n     If their answer is correct they will be awarded by two times their betting marks,\n\n     If the answer is wrong betting marks will be deducted\n\n',
                   style: TextStyle(
-                    fontSize: 20.0,
+                    fontSize: 24.0,
                     fontFamily: 'sans',
                     color: Colors.white,
                   ),
@@ -77,7 +74,7 @@ class _RapidFireRoundState extends State<RapidFireRound> {
                     CircularButton2(
                       icon: Icons.arrow_forward,
                       onTap: () {
-                        Get.to(RapidFireChoice());
+                        Get.to(BettingRound());
                       },
                     ),
                   ],

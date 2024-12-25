@@ -365,7 +365,9 @@ class _ChoiceState extends State<Choice> {
                             _timer!.cancel();
                           });
                         },
-                        child: Text("Restart")),
+                        child: Text(
+                          "Restart",
+                        )),
                     ElevatedButton(
                         onPressed: () {
                           _isTimerFinished = false;
@@ -381,7 +383,11 @@ class _ChoiceState extends State<Choice> {
                         },
                         style: ElevatedButton.styleFrom(
                             backgroundColor: Colors.deepOrange),
-                        child: Text("Pass")),
+                        child: Text(
+                          "Pass",
+                          style: TextStyle(
+                              fontWeight: FontWeight.w100, color: Colors.white),
+                        )),
                     ElevatedButton(
                         onPressed: () {
                           setState(() {
@@ -397,7 +403,11 @@ class _ChoiceState extends State<Choice> {
                         },
                         style: ElevatedButton.styleFrom(
                             backgroundColor: Colors.green),
-                        child: Text("Show Answer")),
+                        child: Text(
+                          "Show Answer",
+                          style: TextStyle(
+                              fontWeight: FontWeight.w100, color: Colors.white),
+                        )),
                     CircularButton2(
                       icon: Icons.arrow_forward,
                       onTap: () {

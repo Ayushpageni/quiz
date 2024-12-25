@@ -27,7 +27,7 @@ class _BuzzerRoundState extends State<BuzzerRound> {
             ),
             Center(
               child: Padding(
-                padding: const EdgeInsets.only(top: 20),
+                padding: const EdgeInsets.only(top: 10),
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                   children: [
@@ -36,11 +36,10 @@ class _BuzzerRoundState extends State<BuzzerRound> {
                       style: TextStyle(
                         color: Colors.white,
                         fontFamily: 'Sans',
-                        fontSize: 48.0,
+                        fontSize: 40.0,
                       ),
                     ),
                     Text(
-                      'Rules\n\n'
                       '1. A series of questions will be asked that include audio or visual elements.\n\n'
                       '2. We will play audio clips or show visuals on a screen.\n\n'
                       '3. Participants/teams must identify the audio clips, and visuals, or answer related questions.\n\n'
