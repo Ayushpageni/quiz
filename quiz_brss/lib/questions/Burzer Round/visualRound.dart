@@ -1,4 +1,4 @@
-//-------------------------Set 1-----------------------
+// // -------------------------Set 1-----------------------
 // final List<Map<String, String>> questions = [
 //   {"question": "", "image": "null", "answer": ""},
 //   {
@@ -184,6 +184,36 @@
 // ];
 
 //-----------------SET semi-2----------------//
+final List<Map<String, String>> questions = [
+  {"question": "", "image": "null", "answer": ""},
+  {
+    "question": "Who is this player?",
+    "image": "image19.png",
+    "answer": "Anjila Tumbapo Subba"
+  },
+  {
+    "question": "Who is this famous boxer?",
+    "image": "assets/photo/ques 29.jpg",
+    "answer": "Mike Tyson"
+  },
+  {
+    "question": "Name the musical instrument displayed in the screen?",
+    "image": "assets/photo/tunguna.jpg",
+    "answer": "Tungana"
+  },
+  {
+    "question": "Which cast does this displayed customs belongs to?",
+    "image": "assets/photo/ques 31.jpg",
+    "answer": "Newar"
+  },
+  {
+    "question": "Identify the person?",
+    "image": "assets/photo/ques  32.jpg",
+    "answer": "Dhanraj acharya"
+  }
+];
+
+//-----------------SET final----------------//
 // final List<Map<String, String>> questions = [
 //   {"question": "", "image": "null", "answer": ""},
 //   // {
@@ -192,53 +222,23 @@
 //   //   "answer": "Anjila Tumbapo Subba"
 //   // },
 //   {
-//     "question": "Who is this famous boxer?",
-//     "image": "assets/photo/ques 29.jpg",
-//     "answer": "Mike Tyson"
-//   },
-//   {
-//     "question": "Name the musical instrument displayed in the screen?",
-//     "image": "assets/photo/tunguna.jpg",
-//     "answer": "Tungana"
-//   },
-//   {
-//     "question": "Which cast does this displayed customs belongs to?",
-//     "image": "assets/photo/ques 31.jpg",
-//     "answer": "Newar"
+//     "question": "Who is this famous football player?",
+//     "image": "assets/photo/ques 33.jpg",
+//     "answer": "Sunil Chhetri"
 //   },
 //   {
 //     "question": "Identify the person?",
-//     "image": "assets/photo/ques  32.jpg",
-//     "answer": "Dhanraj acharya"
+//     "image": "assets/photo/quest 34.jpg",
+//     "answer": "Madan Bhandari"
+//   },
+//   {
+//     "question": "What is the name of the country of the flag displayed?",
+//     "image": "assets/photo/ques 35.jpg",
+//     "answer": "Finland"
+//   },
+//   {
+//     "question": "Identify the person?",
+//     "image": "assets/photo/ques 36.jpg",
+//     "answer": "Gynendra shahi"
 //   }
 // ];
-
-//-----------------SET final----------------//
-final List<Map<String, String>> questions = [
-  {"question": "", "image": "null", "answer": ""},
-  // {
-  //   "question": "Who is this player?",
-  //   "image": "image19.png",
-  //   "answer": "Anjila Tumbapo Subba"
-  // },
-  {
-    "question": "Who is this famous football player?",
-    "image": "assets/photo/ques 33.jpg",
-    "answer": "Sunil Chhetri"
-  },
-  {
-    "question": "Identify the person?",
-    "image": "assets/photo/quest 34.jpg",
-    "answer": "Madan Bhandari"
-  },
-  {
-    "question": "What is the name of the country of the flag displayed?",
-    "image": "assets/photo/ques 35.jpg",
-    "answer": "Finland"
-  },
-  {
-    "question": "Identify the person?",
-    "image": "assets/photo/ques 36.jpg",
-    "answer": "Gynendra shahi"
-  }
-];
