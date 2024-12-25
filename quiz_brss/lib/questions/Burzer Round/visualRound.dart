@@ -73,7 +73,7 @@
 //   } //12.(ans=chiri babu maharjan)(hints=mayor of lalitpur municipality)
 // ];
 
-//  //-----------------SET 4-------------//
+//-----------------SET 4-------------//
 final List<Map<String, String>> questions = [
   {"question": "", "image": "null", "answer": ""},
   {
