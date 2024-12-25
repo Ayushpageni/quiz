@@ -166,31 +166,180 @@
 //   },
 // ];
 
-  //--------------------------SET 7 -------------------------//
-  final List<Map<String, String>> questions = [
-    {"question": "", "audio": "", "answer": ""},
-    {
-      "question": "Guess the name of female singer?",
-      "audio": "assets/sound/song5.mp3",
-      "answer": "Aruna Lama - Eh Kancha Malai Sunko Tara"
-    },
-    // Aruna Lama - Eh Kancha Malai Sunko Tara
-    {
-      "question": "Guess the main artist of this song?",
-      "audio": "assets/sound/song6.mp3",
-      "answer": "Lil Nas X - Old Town Road ft. Billy Ray Cyrus"
-    },
-    //Lil Nas X - Old Town Road ft. Billy Ray Cyrus
-    {
-      "question": "Guess the artist name?",
-      "audio": "assets/sound/song7.mp3",
-      "answer": " Nabin K Bhattarai - Timi Le Herda Kasailai"
-    },
-    // Nabin K Bhattarai - Timi Le Herda Kasailai
-    {
-      "question": "Guess this song name?",
-      "audio": "assets/sound/song8.mp3",
-      "answer": "Vanessa Carlton - A Thousand Miles"
-    },
-    //Vanessa Carlton - A Thousand Miles
-  ];
+//--------------------------SET 7 -------------------------//
+// final List<Map<String, String>> questions = [
+//   {"question": "", "audio": "", "answer": ""},
+//   {
+//     "question": "Guess the name of female singer?",
+//     "audio": "assets/sound/song5.mp3",
+//     "answer": "Aruna Lama - Eh Kancha Malai Sunko Tara"
+//   },
+//   // Aruna Lama - Eh Kancha Malai Sunko Tara
+//   {
+//     "question": "Guess the main artist of this song?",
+//     "audio": "assets/sound/song6.mp3",
+//     "answer": "Lil Nas X - Old Town Road ft. Billy Ray Cyrus"
+//   },
+//   //Lil Nas X - Old Town Road ft. Billy Ray Cyrus
+//   {
+//     "question": "Guess the artist name?",
+//     "audio": "assets/sound/song7.mp3",
+//     "answer": " Nabin K Bhattarai - Timi Le Herda Kasailai"
+//   },
+//   // Nabin K Bhattarai - Timi Le Herda Kasailai
+//   {
+//     "question": "Guess this song name?",
+//     "audio": "assets/sound/song8.mp3",
+//     "answer": "Vanessa Carlton - A Thousand Miles"
+//   },
+//   //Vanessa Carlton - A Thousand Miles
+// ];
+
+// -------------------------Set 8-----------------------
+// final List<Map<String, String>> questions = [
+//   {"question": "", "audio": "", "answer": ""},
+//   {
+//     "question": "What is the name of the singer?",
+//     "audio": "../assets/sound/set1a1.mp3",
+//     "answer": "Astha rout"
+//   },
+//   {
+//     "question": "Name the movie of the song played?",
+//     "audio": "../assets/sound/set1a2.mp3",
+//     "answer": "Behuli from meghauli"
+//   },
+//   {
+//     "question": "Identify the sound of the animal.",
+//     "audio": "../assets/sound/set1a3.mp3",
+//     "answer": "duck"
+//   },
+//   {
+//     "question": "Identify the sound of the animal.",
+//     "audio": "../assets/sound/set1a4.mp3",
+//     "answer": "eagle"
+//   },
+// ];
+
+// -------------------------Set 9-----------------------
+// final List<Map<String, String>> questions = [
+//   {"question": "", "audio": "", "answer": ""},
+//   {
+//     "question": "Identify the sound of the vehicle.",
+//     "audio": "../assets/sound/set2a1.mp3",
+//     "answer": "fighter jet"
+//   },
+//   {
+//     "question": "Identify the sound of the musical instument.",
+//     "audio": "../assets/sound/set2a2.mp3",
+//     "answer": "flute"
+//   },
+//   {
+//     "question": "Identify the sound of the usical instument .",
+//     "audio": "../assets/sound/set2a3.mp3",
+//     "answer": "Harmonica"
+//   },
+//   {
+//     "question": "4.	Identify the sound of the animal.",
+//     "audio": "../assets/sound/set2a4.mp3",
+//     "answer": "Hippo"
+//   },
+// ];
+// -------------------------Set 10-----------------------
+// final List<Map<String, String>> questions = [
+//   {"question": "", "audio": "", "answer": ""},
+//   {
+//     "question": "1.	What is the name of the singer?",
+//     "audio": "../assets/sound/set3a1.mp3",
+//     "answer": "justin biber"
+//   },
+//   {
+//     "question": "2.	Identify the voice ?",
+//     "audio": "../assets/sound/set3a2.mp3",
+//     "answer": "Madan Bhandari"
+//   },
+//   {
+//     "question": "3.	What is the name of the singer?",
+//     "audio": "../assets/sound/set3a3.mp3",
+//     "answer": "Narayan gopal"
+//   },
+//   {
+//     "question": "4.	Identify the voice ?",
+//     "audio": "../assets/sound/set3a4.mp3",
+//     "answer": "nelson mandela"
+//   },
+// ];
+
+// -------------------------Set 11-----------------------
+// final List<Map<String, String>> questions = [
+//   {"question": "", "audio": "", "answer": ""},
+//   {
+//     "question": "1.	Identify the sound of the animal.",
+//     "audio": "../assets/sound/set4a1.mp3",
+//     "answer": "owl"
+//   },
+//   {
+//     "question": "2.	Identify the sound of the animal.",
+//     "audio": "../assets/sound/set4a2.mp3",
+//     "answer": "pig"
+//   },
+//   {
+//     "question": "3.	What is the name of the singer?",
+//     "audio": "../assets/sound/set4a3.mp3",
+//     "answer": "prakash gahatraj"
+//   },
+//   {
+//     "question": "4.	Whose statement is this?",
+//     "audio": "../assets/sound/set4a4.mp3",
+//     "answer": "Prithivi Narayan shah"
+//   },
+// ];
+
+// -------------------------Set 12-----------------------
+// final List<Map<String, String>> questions = [
+//   {"question": "", "audio": "", "answer": ""},
+//   {
+//     "question": "1.	Name the movie of the song played?",
+//     "audio": "../assets/sound/set12a1.mp3",
+//     "answer": "khusma"
+//   },
+//   {
+//     "question": "2.	Name the movie of the song played?",
+//     "audio": "../assets/sound/set12a2.mp3",
+//     "answer": "Shakira Isabel Mebarak Ripoll"
+//   },
+//   {
+//     "question": "3.	Identify the voice ?",
+//     "audio": "../assets/sound/set12a3.mp3",
+//     "answer": "Sandeep chhetri"
+//   },
+//   {
+//     "question": "4.	What is the name of the singer?",
+//     "audio": "../assets/sound/set12a4.mp3",
+//     "answer": "Shiva pariyar"
+//   },
+// ];
+
+// -------------------------Set 13-----------------------
+final List<Map<String, String>> questions = [
+  {"question": "", "audio": "", "answer": ""},
+  {
+    "question": "1.	What is the name of the singer?",
+    "audio": "../assets/sound/set13a1.mp3",
+    "answer": "Balendra shah/ balen shah"
+  },
+  {
+    "question": "2.	What is the name of the singer?",
+    "audio": "../assets/sound/set13a2.mp3",
+    "answer": "Shushant kc"
+  },
+  {
+    "question": "3.	Identify the sound of the musical instument.",
+    "audio": "../assets/sound/set13a3.mp3",
+    "answer": "violin"
+  },
+  {
+    "question": "4.	Identify the sound of the animal.",
+    "audio": "../assets/sound/set13a4.mp3",
+    "answer": "-zebra"
+  },
+];

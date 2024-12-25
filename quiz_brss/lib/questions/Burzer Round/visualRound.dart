@@ -125,12 +125,7 @@ final List<Map<String, String>> questions = [
 
 //-----------------SET 6----------------//
 // final List<Map<String, String>> questions = [
-//   {"question": "", "image": "null", "answer": ""},
-//   // {
-//   //   "question": "Who is this player?",
-//   //   "image": "image19.png",
-//   //   "answer": "Anjila Tumbapo Subba"
-//   // },
+//   {"question": "", "image": "null"},
 //   {
 //     "question": " From which club is this player from?",
 //     "image": "assets/photo/ques no 21.jpg",
