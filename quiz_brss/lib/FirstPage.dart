@@ -27,7 +27,7 @@ class _FirstPageState extends State<FirstPage> {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Padding(
-                padding: EdgeInsets.fromLTRB(100, 0, 0, 50),
+                padding: EdgeInsets.fromLTRB(30, 0, 0, 50),
                 child: CircularButton(),
               ),
               // Padding(

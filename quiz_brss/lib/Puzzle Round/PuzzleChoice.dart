@@ -1,6 +1,9 @@
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:quiz_brss/Betting%20Round/Betting%20Round.dart';
+import 'package:quiz_brss/Betting%20Round/BettingRoundRule.dart';
+import 'package:quiz_brss/endPage.dart';
 import 'package:quiz_brss/questions/Puzzel%20Round/puzzleRound.dart';
 import 'package:sleek_circular_slider/sleek_circular_slider.dart';
 import 'dart:async';
@@ -304,7 +307,10 @@ class _PuzzleChoiceState extends State<PuzzleChoice> {
                         },
                         style: ElevatedButton.styleFrom(
                             backgroundColor: Colors.green),
-                        child: Text("Show Answer")),
+                        child: Text("Show Answer",
+                            style: TextStyle(
+                                fontWeight: FontWeight.w100,
+                                color: Colors.white))),
                     SizedBox(width: 20),
                     ElevatedButton(
                         onPressed: () {
@@ -317,10 +323,11 @@ class _PuzzleChoiceState extends State<PuzzleChoice> {
                           });
                         },
                         child: Text("Complete")),
+                    CircularButton(),
                     CircularButton2(
                       icon: Icons.arrow_forward,
                       onTap: () {
-                        Get.to(RapidFireRound());
+                        Get.to(BettingRoundRule());
                       },
                     ),
                   ],
@@ -328,6 +335,32 @@ class _PuzzleChoiceState extends State<PuzzleChoice> {
               ),
             ),
           ],
+        ),
+      ),
+    );
+  }
+}
+
+class CircularButton extends StatelessWidget {
+  const CircularButton({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      width: 80.0,
+      height: 80.0,
+      decoration: BoxDecoration(
+        shape: BoxShape.circle,
+        color: Colors.blue,
+      ),
+      child: InkWell(
+        onTap: () {
+          Get.to(endPage());
+        },
+        child: Icon(
+          Icons.hail_outlined,
+          color: Colors.white,
+          size: 40.0,
         ),
       ),
     );

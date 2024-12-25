@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 import 'package:audioplayers/audioplayers.dart';
+import 'package:quiz_brss/endPage.dart';
 import 'package:quiz_brss/questions/Burzer%20Round/audioRound.dart';
 
 import '../Puzzle Round/PuzzleRound.dart';
@@ -143,7 +144,10 @@ class _AudioRoundState extends State<AudioRound> {
                       },
                       style: ElevatedButton.styleFrom(
                           backgroundColor: Colors.green),
-                      child: Text("Show Answer"),
+                      child: Text("Show Answer",
+                          style: TextStyle(
+                              fontWeight: FontWeight.w100,
+                              color: Colors.white)),
                     ),
                     ElevatedButton(
                         onPressed: () {
@@ -185,6 +189,7 @@ class _AudioRoundState extends State<AudioRound> {
                           });
                         },
                         child: Text("4")),
+                    CircularButton(),
                     CircularButton2(
                       icon: Icons.arrow_forward,
                       onTap: () {
@@ -196,6 +201,32 @@ class _AudioRoundState extends State<AudioRound> {
               ),
             ),
           ],
+        ),
+      ),
+    );
+  }
+}
+
+class CircularButton extends StatelessWidget {
+  const CircularButton({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      width: 80.0,
+      height: 80.0,
+      decoration: BoxDecoration(
+        shape: BoxShape.circle,
+        color: Colors.blue,
+      ),
+      child: InkWell(
+        onTap: () {
+          Get.to(endPage());
+        },
+        child: Icon(
+          Icons.hail_outlined,
+          color: Colors.white,
+          size: 40.0,
         ),
       ),
     );
