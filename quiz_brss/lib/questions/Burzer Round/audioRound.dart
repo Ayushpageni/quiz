@@ -268,6 +268,10 @@
 //     "answer": "nelson mandela"
 //   },
 // ];
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5cea2b80ba57fdf4a8b0e9c68294b46e56ab05cd
 // -------------------------Set 11-----------------------
 // final List<Map<String, String>> questions = [
 //   {"question": "", "audio": "", "answer": ""},
@@ -292,6 +296,10 @@
 //     "answer": "Prithivi Narayan shah"
 //   },
 // ];
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5cea2b80ba57fdf4a8b0e9c68294b46e56ab05cd
 // -------------------------Set 12-----------------------
 // final List<Map<String, String>> questions = [
 //   {"question": "", "audio": "", "answer": ""},
@@ -316,6 +324,10 @@
 //     "answer": "Shiva pariyar"
 //   },
 // ];
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5cea2b80ba57fdf4a8b0e9c68294b46e56ab05cd
 // -------------------------Set 13-----------------------
 final List<Map<String, String>> questions = [
   {"question": "", "audio": "", "answer": ""},
