@@ -47,7 +47,8 @@ class _PuzzleRoundState extends State<PuzzleRound> {
                 child: Text(
                   '1. A set of jumbled words or phrases will be shown on the screen.\n\n'
                   '2. Participants/teams must unscramble the jumbled word/phrase to find the correct word.\n\n'
-                  '3. The participants will earn 5 points for each correct word\n',
+                  '3. The participants will earn 5 points for each correct word\n\n'
+                  '4. Only the Answer we have is given a point no other words formation is accepted.',
                   style: TextStyle(
                     fontSize: 24.0,
                     fontFamily: 'sans',

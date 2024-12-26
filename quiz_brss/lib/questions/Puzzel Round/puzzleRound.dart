@@ -1,67 +1,67 @@
 //-----------------------SET 1-------------------//
-final List<Map<String, String>> QuestionList = [
-  {"question": "Unscramble the following word:", "word": ""},
-  {
-    "question": "Unscramble the following word:",
-    "word": "nhew",
-    "answer": "when"
-  }, // Answer: police
-  {
-    "question": "Unscramble the following word:",
-    "word": "lifaym ",
-    "answer": "family"
-  }, // Answer: alert
-  {
-    "question": "Unscramble the following word:",
-    "word": "atbel",
-    "answer": "table"
-  }, // Answer: blink
-  {
-    "question": "Unscramble the following word:",
-    "word": "eomhwrok",
-    "answer": "homework "
-  }, // Answer: worth
-  {
-    "question": "Unscramble the following word:",
-    "word": "rettrac",
-    "answer": "tractor"
-  }, // Answer: lover
-  {
-    "question": "Unscramble the following word:",
-    "word": "siatn",
-    "answer": "stain"
-  }, // Answer: brilliant
-  {
-    "question": "Unscramble the following word:",
-    "word": "sebirt",
-    "answer": "tribes"
-  }, // Answer: tribes
-  // Answer:  particles
-  {
-    "question": "Unscramble the following word:",
-    "word": "roetmh",
-    "answer": "mother"
-  },
-  // , // Answer: chains
-  // {
-  //   "question": "Unscramble the following word:",
-  //   "word": "teag",
-  //   "answer": "gate"
-  // }, // Answer: mails
-  {
-    "question": "Unscramble the following word:",
-    "word": "Voide",
-    "answer": "video"
-  }, // Answer:  particles
-  {
-    "question": "Unscramble the following word:",
-    "word": "resist",
-    "answer": "sister "
-  }, // Answer: chains
-];
+// final List<Map<String, String>> QuestionList = [
+//   {"question": "Unscramble the following word:", "word": ""},
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "nhew",
+//     "answer": "when"
+//   }, // Answer: police
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "lifaym ",
+//     "answer": "family"
+//   }, // Answer: alert
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "atbel",
+//     "answer": "table"
+//   }, // Answer: blink
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "eomhwrok",
+//     "answer": "homework "
+//   }, // Answer: worth
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "rettrac",
+//     "answer": "tractor"
+//   }, // Answer: lover
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "siatn",
+//     "answer": "stain"
+//   }, // Answer: brilliant
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "sebirt",
+//     "answer": "tribes"
+//   }, // Answer: tribes
+//   // Answer:  particles
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "roetmh",
+//     "answer": "mother"
+//   },
+//   // Answer: chains
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "teag",
+//     "answer": "gate"
+//   }, // Answer: mails
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "Voide",
+//     "answer": "video"
+//   }, // Answer:  particles
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "resist",
+//     "answer": "sister "
+//   }, // Answer: chains
+// ];
 
 //------------------------SET 2--------------------------//
-// final List<Map<String, String>>  QuestionList = [
+// final List<Map<String, String>> QuestionList = [
 //   {"question": "Unscramble the following word:", "word": ""},
 //   {
 //     "question": "Unscramble the following word:",
@@ -106,7 +106,7 @@ final List<Map<String, String>> QuestionList = [
 // ];
 
 //----------------SET 3 --------------------//
-// final List<Map<String, String>>  QuestionList = [
+// final List<Map<String, String>> QuestionList = [
 //   {"question": "Unscramble the following word:", "word": ""},
 //   {
 //     "question": "Unscramble the following word:",
@@ -161,7 +161,7 @@ final List<Map<String, String>> QuestionList = [
 // ];
 
 //-------------------SET 4 -----------------------//
-// final List<Map<String, String>>  QuestionList = [
+// final List<Map<String, String>> QuestionList = [
 //   {"question": "Unscramble the following word:", "word": ""},
 //   {
 //     "question": "Unscramble the following word:",
@@ -216,7 +216,7 @@ final List<Map<String, String>> QuestionList = [
 // ];
 
 // ---------------------SET 5-------------------------//
-// final List<Map<String, String>>  QuestionList = [
+// final List<Map<String, String>> QuestionList = [
 //   {"question": "Unscramble the following word:", "word": ""},
 //   {
 //     "question": "Unscramble the following word:",
@@ -323,58 +323,182 @@ final List<Map<String, String>> QuestionList = [
 // ------------SET 7---------------------//
 // final List<Map<String, String>> QuestionList = [
 //   {"question": "Unscramble the following word:", "word": ""},
-//   {"question": "Unscramble the following word:", "word": "ntealphe", "answer": "elephant"},
-//   {"question": "Unscramble the following word:", "word": "eotcmupr", "answer": "computer"},
-//   {"question": "Unscramble the following word:", "word": "asktballbe", "answer": "basketball"},
-//   {"question": "Unscramble the following word:", "word": "gnaulgea", "answer": "language"},
-//   {"question": "Unscramble the following word:", "word": "dvnretaeu", "answer": "adventure"},
-//   {"question": "Unscramble the following word:", "word": "yftubtrei", "answer": "butterfly"},
-//   {"question": "Unscramble the following word:", "word": "piraenla", "answer": "airplane"},
-//   {"question": "Unscramble the following word:", "word": "phinaessh", "answer": "happiness"}
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "ntealphe",
+//     "answer": "elephant"
+//   },
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "eotcmupr",
+//     "answer": "computer"
+//   },
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "asktballbe",
+//     "answer": "basketball"
+//   },
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "gnaulgea",
+//     "answer": "language"
+//   },
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "dvnretaeu",
+//     "answer": "adventure"
+//   },
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "yftubtrei",
+//     "answer": "butterfly"
+//   },
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "piraenla",
+//     "answer": "airplane"
+//   },
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "phinaessh",
+//     "answer": "happiness"
+//   }
 // ];
-
 
 // ------------SET 8---------------------//
 // final List<Map<String, String>> QuestionList = [
 //   {"question": "Unscramble the following word:", "word": ""},
-//   {"question": "Unscramble the following word:", "word": "bitarb", "answer": "rabbit"},
-//   {"question": "Unscramble the following word:", "word": "kcteor", "answer": "rocket"},
-//   {"question": "Unscramble the following word:", "word": "scaaub", "answer": "abacus"},
-//   {"question": "Unscramble the following word:", "word": "eumcrtpo", "answer": "computer"},
-//   {"question": "Unscramble the following word:", "word": "engydrho", "answer": "hydrogen"},
-//   {"question": "Unscramble the following word:", "word": "gsrnto", "answer": "strong"},
-//   {"question": "Unscramble the following word:", "word": "ommrosascl", "answer": "classroom"},
-//   {"question": "Unscramble the following word:", "word": "rtesnep", "answer": "present"}
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "bitarb",
+//     "answer": "rabbit"
+//   },
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "kcteor",
+//     "answer": "rocket"
+//   },
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "scaaub",
+//     "answer": "abacus"
+//   },
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "eumcrtpo",
+//     "answer": "computer"
+//   },
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "engydrho",
+//     "answer": "hydrogen"
+//   },
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "gsrnto",
+//     "answer": "strong"
+//   },
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "ommrosascl",
+//     "answer": "classroom"
+//   },
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "rtesnep",
+//     "answer": "present"
+//   }
 // ];
-
 
 // ------------SET 9---------------------//
 // final List<Map<String, String>> QuestionList = [
 //   {"question": "Unscramble the following word:", "word": ""},
-//   {"question": "Unscramble the following word:", "word": "uftbaueil", "answer": "beautiful"},
-//   {"question": "Unscramble the following word:", "word": "lnurtaa", "answer": "natural"},
-//   {"question": "Unscramble the following word:", "word": "ucsero", "answer": "source"},
-//   {"question": "Unscramble the following word:", "word": "tsreis", "answer": "sister"},
-//   {"question": "Unscramble the following word:", "word": "rwylea", "answer": "lawyer"},
-//   {"question": "Unscramble the following word:", "word": "eunsdtt", "answer": "student"},
-//   {"question": "Unscramble the following word:", "word": "rtberoh", "answer": "brother"},
-//   {"question": "Unscramble the following word:", "word": "papel", "answer": "apple"}
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "uftbaueil",
+//     "answer": "beautiful"
+//   },
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "lnurtaa",
+//     "answer": "natural"
+//   },
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "ucsero",
+//     "answer": "source"
+//   },
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "tsreis",
+//     "answer": "sister"
+//   },
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "rwylea",
+//     "answer": "lawyer"
+//   },
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "eunsdtt",
+//     "answer": "student"
+//   },
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "rtberoh",
+//     "answer": "brother"
+//   },
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "papel",
+//     "answer": "apple"
+//   }
 // ];
-
 
 // ------------SET 10---------------------//
-// final List<Map<String, String>> QuestionList = [
-//   {"question": "Unscramble the following word:", "word": ""},
-//   {"question": "Unscramble the following word:", "word": "tordoc", "answer": "doctor"},
-//   {"question": "Unscramble the following word:", "word": "lwpalepr", "answer": "wallpaper"},
-//   {"question": "Unscramble the following word:", "word": "enkowdelg", "answer": "knowledge"},
-//   {"question": "Unscramble the following word:", "word": "eblife", "answer": "belief"},
-//   {"question": "Unscramble the following word:", "word": "ehilevc", "answer": "vehicle"},
-//   {"question": "Unscramble the following word:", "word": "dsuotie", "answer": "outside"},
-//   {"question": "Unscramble the following word:", "word": "egren", "answer": "green"},
-//   {"question": "Unscramble the following word:", "word": "iiemdcne", "answer": "medicine"}
-// ];
-
+final List<Map<String, String>> QuestionList = [
+  {"question": "Unscramble the following word:", "word": ""},
+  {
+    "question": "Unscramble the following word:",
+    "word": "tordoc",
+    "answer": "doctor"
+  },
+  {
+    "question": "Unscramble the following word:",
+    "word": "lwpalepr",
+    "answer": "wallpaper"
+  },
+  {
+    "question": "Unscramble the following word:",
+    "word": "enkowdelg",
+    "answer": "knowledge"
+  },
+  {
+    "question": "Unscramble the following word:",
+    "word": "eblife",
+    "answer": "belief"
+  },
+  {
+    "question": "Unscramble the following word:",
+    "word": "ehilevc",
+    "answer": "vehicle"
+  },
+  {
+    "question": "Unscramble the following word:",
+    "word": "dsuotie",
+    "answer": "outside"
+  },
+  {
+    "question": "Unscramble the following word:",
+    "word": "egren",
+    "answer": "green"
+  },
+  {
+    "question": "Unscramble the following word:",
+    "word": "iiemdcne",
+    "answer": "medicine"
+  }
+];
 
 // ------------SET 11---------------------//
 // final List<Map<String, String>> QuestionList = [
@@ -388,7 +512,6 @@ final List<Map<String, String>> QuestionList = [
 //   {"question": "Unscramble the following word:", "word": "nonutima", "answer": "mountain"},
 //   {"question": "Unscramble the following word:", "word": "eawtr", "answer": "water"}
 // ];
-
 
 // ------------SET 12---------------------//
 // final List<Map<String, String>> QuestionList = [
@@ -406,16 +529,47 @@ final List<Map<String, String>> QuestionList = [
 // ------------SET 13---------------------//
 // final List<Map<String, String>> QuestionList = [
 //   {"question": "Unscramble the following word:", "word": ""},
-//   {"question": "Unscramble the following word:", "word": "nhucl", "answer": "lunch"},
-//   {"question": "Unscramble the following word:", "word": "yenho", "answer": "honey"},
-//   {"question": "Unscramble the following word:", "word": "lwfroe", "answer": "flower"},
-//   {"question": "Unscramble the following word:", "word": "troesf", "answer": "forest"},
-//   {"question": "Unscramble the following word:", "word": "lainma", "answer": "animal"},
-//   {"question": "Unscramble the following word:", "word": "eicmrcae", "answer": "icecream"},
-//   {"question": "Unscramble the following word:", "word": "termwaonel", "answer": "watermelon"},
-//   {"question": "Unscramble the following word:", "word": "rarcto", "answer": "carrot"}
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "nhucl",
+//     "answer": "lunch"
+//   },
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "yenho",
+//     "answer": "honey"
+//   },
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "lwfroe",
+//     "answer": "flower"
+//   },
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "troesf",
+//     "answer": "forest"
+//   },
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "lainma",
+//     "answer": "animal"
+//   },
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "eicmrcae",
+//     "answer": "icecream"
+//   },
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "termwaonel",
+//     "answer": "watermelon"
+//   },
+//   {
+//     "question": "Unscramble the following word:",
+//     "word": "rarcto",
+//     "answer": "carrot"
+//   }
 // ];
-
 
 // final List<Map<String, String>> QuestionList = [
 //   {"question": "Unscramble the following word:", "word": "alpcae", "answer": "place"},

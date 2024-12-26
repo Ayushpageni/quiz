@@ -1,34 +1,34 @@
 //------------------SET 1-------------------------//
-final List<Map<String, String>> questions = [
-  {"question": "", "audio": "", "answer": ""},
-  {
-    "question": "What is the full name of person in the audio clip ? ",
-    "audio": "assets/sounds/Ques1 audio clip.mp3",
-    "answer": "Adolf Hitler"
-  },
-  //Adolf Hitler
-  {
-    "question": "What is the lyrics of the song ?",
-    "audio": "assets/sounds/Ques 2 first play.mp3",
-    "answer":
-        "Answer [ Song name = ' timiley herda kasailai' ; singer - Nabin k bhattarai ]"
-  },
-  //[Answer=singer Nabin k bhattarai] [Song name=timiley herda kasailai]
-  {
-    "question": "What is the real name of the artist?",
-    "audio": "assets/sounds/Ques no 3 audio clip.mp3",
-    "answer": "Arjun Ghimire"
-  },
-  // [Answer= arjun ghimire] [Hint=famous role player of sakkigoni]
-  {
-    "question": "Who is the singer of this song?",
-    "audio": "assets/sounds/Ques4 audio clip.mp3",
-    "answer": "Shushant KC"
-  },
-  //[Answer=shushant kc]
-];
+// final List<Map<String, String>> questions = [
+//   {"question": "", "audio": "", "answer": ""},
+//   {
+//     "question": "What is the full name of person in the audio clip ? ",
+//     "audio": "assets/sounds/Ques1 audio clip.mp3",
+//     "answer": "Adolf Hitler"
+//   },
+//   //Adolf Hitler
+//   {
+//     "question": "What is the lyrics of the song ?",
+//     "audio": "assets/sounds/Ques 2 first play.mp3",
+//     "answer":
+//         "Answer [ Song name = ' timiley herda kasailai' ; singer - Nabin k bhattarai ]"
+//   },
+//   //[Answer=singer Nabin k bhattarai] [Song name=timiley herda kasailai]
+//   {
+//     "question": "What is the real name of the artist?",
+//     "audio": "assets/sounds/Ques no 3 audio clip.mp3",
+//     "answer": "Arjun Ghimire"
+//   },
+//   // [Answer= arjun ghimire] [Hint=famous role player of sakkigoni]
+//   {
+//     "question": "Who is the singer of this song?",
+//     "audio": "assets/sounds/Ques4 audio clip.mp3",
+//     "answer": "Shushant KC"
+//   },
+//   //[Answer=shushant kc]
+// ];
 
-//--------------------------SET 2 -------------------------//
+// //--------------------------SET 2 -------------------------//
 // final List<Map<String, String>> questions = [
 //   {"question": "", "audio": "", "answer": ""},
 //   {
@@ -221,29 +221,29 @@ final List<Map<String, String>> questions = [
 // ];
 
 // -------------------------Set 9-----------------------
-// final List<Map<String, String>> questions = [
-//   {"question": "", "audio": "", "answer": ""},
-//   {
-//     "question": "Identify the sound of the vehicle.",
-//     "audio": "../assets/sound/set2a1.mp3",
-//     "answer": "fighter jet"
-//   },
-//   {
-//     "question": "Identify the sound of the musical instument.",
-//     "audio": "../assets/sound/set2a2.mp3",
-//     "answer": "flute"
-//   },
-//   {
-//     "question": "Identify the sound of the usical instument .",
-//     "audio": "../assets/sound/set2a3.mp3",
-//     "answer": "Harmonica"
-//   },
-//   {
-//     "question": "4.	Identify the sound of the animal.",
-//     "audio": "../assets/sound/set2a4.mp3",
-//     "answer": "Hippo"
-//   },
-// ];
+final List<Map<String, String>> questions = [
+  {"question": "", "audio": "", "answer": ""},
+  {
+    "question": "Identify the sound of the vehicle.",
+    "audio": "../assets/sound/set2a1.mp3",
+    "answer": "fighter jet"
+  },
+  {
+    "question": "Identify the sound of the musical instument.",
+    "audio": "../assets/sound/set2a2.mp3",
+    "answer": "flute"
+  },
+  {
+    "question": "Identify the sound of the musical instument .",
+    "audio": "../assets/sound/set2a3.mp3",
+    "answer": "Harmonica"
+  },
+  {
+    "question": "Identify the sound of the animal.",
+    "audio": "../assets/sound/set2a4.mp3",
+    "answer": "Hippo"
+  },
+];
 // -------------------------Set 10-----------------------
 // final List<Map<String, String>> questions = [
 //   {"question": "", "audio": "", "answer": ""},
@@ -268,7 +268,6 @@ final List<Map<String, String>> questions = [
 //     "answer": "nelson mandela"
 //   },
 // ];
-
 // -------------------------Set 11-----------------------
 // final List<Map<String, String>> questions = [
 //   {"question": "", "audio": "", "answer": ""},
@@ -293,6 +292,7 @@ final List<Map<String, String>> questions = [
 //     "answer": "Prithivi Narayan shah"
 //   },
 // ];
+
 // -------------------------Set 12-----------------------
 // final List<Map<String, String>> questions = [
 //   {"question": "", "audio": "", "answer": ""},
@@ -317,7 +317,6 @@ final List<Map<String, String>> questions = [
 //     "answer": "Shiva pariyar"
 //   },
 // ];
-
 // -------------------------Set 13-----------------------
 // final List<Map<String, String>> questions = [
 //   {"question": "", "audio": "", "answer": ""},

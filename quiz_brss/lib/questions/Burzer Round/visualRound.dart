@@ -98,7 +98,7 @@
 //   } // [Former circket captain] [Parash Khadka]
 // ];
 
-//  //-----------------SET 5----------------//
+//-----------------SET 5----------------//
 // final List<Map<String, String>> questions = [
 //   {"question": "", "image": "null"},
 //   {
@@ -123,7 +123,7 @@
 //   } //Netra Bikram Chand(Biplov leader)
 // ];
 
-//-----------------SET 6----------------//
+// -----------------SET 6----------------//
 // final List<Map<String, String>> questions = [
 //   {"question": "", "image": "null"},
 //   {
@@ -364,29 +364,29 @@
 // ];
 
 // -------------------------Set 9-----------------------
-// final List<Map<String, String>> questions = [
-//   {"question": "", "image": "null", "answer": ""},
-//   {
-//     "question": "तस्बिरमा देखाइएको मन्दिरको नाम के हो",
-//     "image": "../assets/photo/set9v1.jpg",
-//     "answer": "Muktinath Temple"
-//   },
-//   {
-//     "question": "तस्बिरमा देखाइएको मन्दिरको नाम के हो",
-//     "image": "../assets/photo/set9v2.jpg",
-//     "answer": "Surendra Raj Pandey(mukhya mantra of Gandaki province)"
-//   },
-//   {
-//     "question": "What is the name of the district in the presented video?",
-//     "image": "../assets/photo/set9v3.mp4",
-//     "answer": "Dolakha (kuri village)"
-//   },
-//   {
-//     "question": "What is the name of the player presenting in video.",
-//     "image": "../assets/photo/set9v4.mp4",
-//     "answer": "Lalit rajbansi"
-//   },
-// ];
+final List<Map<String, String>> questions = [
+  {"question": "", "image": "null", "answer": ""},
+  {
+    "question": "तस्बिरमा देखाइएको मन्दिरको नाम के हो",
+    "image": "../assets/photo/set9v1.jpg",
+    "answer": "Muktinath Temple"
+  },
+  {
+    "question": "तस्बिरमा देखाइएको व्यक्ति को हुन्?",
+    "image": "../assets/photo/set9v2.jpg",
+    "answer": "Surendra Raj Pandey(mukhya mantra of Gandaki province)"
+  },
+  {
+    "question": "What is the name of the district in the presented video?",
+    "image": "../assets/photo/set9v3.mp4",
+    "answer": "Dolakha (kuri village)"
+  },
+  {
+    "question": "What is the name of the player presenting in video.",
+    "image": "../assets/photo/set9v4.mp4",
+    "answer": "Lalit rajbansi"
+  },
+];
 
 // -------------------------Set 10-----------------------
 // final List<Map<String, String>> questions = [
@@ -414,26 +414,44 @@
 // ];
 
 // -------------------------Set 11-----------------------
-final List<Map<String, String>> questions = [
-  {"question": "", "image": "null", "answer": ""},
-  {
-    "question": "तस्बिरमा देखाइएको मुर्ती कसको हो ",
-    "image": "../assets/photo/set11v1.jpg",
-    "answer": "Kal Bhairab"
-  },
-  {
-    "question": "Identify the name of player featured in picture.",
-    "image": "../assets/photo/set11v2.jpg",
-    "answer": "sahas bhandari (killeryt )pubg esports player"
-  },
-  {
-    "question": "What is the real name of this famous celebrity?",
-    "image": "../assets/photo/set11v3.jpg",
-    "answer": "dwayne jhonson"
-  },
-  {
-    "question": "What is the name of singer of presented video.",
-    "image": "../assets/photo/set11v4.mp4",
-    "answer": "Raju pariyar"
-  },
-];
+// final List<Map<String, String>> questions = [
+//   {"question": "", "image": "null", "answer": ""},
+//   {
+//     "question": "तस्बिरमा देखाइएको मुर्ती कसको हो ",
+//     "image": "../assets/photo/set11v1.jpg",
+//     "answer": "Kal Bhairab"
+//   },
+//   {
+//     "question": "Identify the name of player featured in picture.",
+//     "image": "../assets/photo/set11v2.jpg",
+//     "answer": "sahas bhandari (killeryt )pubg esports player"
+//   },
+//   {
+//     "question": "What is the real name of this famous celebrity?",
+//     "image": "../assets/photo/set11v3.jpg",
+//     "answer": "dwayne jhonson"
+//   },
+//   {
+//     "question": "What is the name of singer of presented video.",
+//     "image": "../assets/photo/set11v4.mp4",
+//     "answer": "Raju pariyar"
+//   },
+// ];
+
+// -------------------------Set 12-----------------------
+// final List<Map<String, String>> questions = [
+//   {"question": "", "image": "null", "answer": ""},
+//   {"question": "", "image": "", "answer": ""},
+//   {"question": "", "image": "", "answer": ""},
+//   {"question": "", "image": "", "answer": ""},
+//   {"question": "", "image": "", "answer": ""},
+// ];
+
+// -------------------------Set 13-----------------------
+// final List<Map<String, String>> questions = [
+//   {"question": "", "image": "null", "answer": ""},
+//   {"question": "", "image": "", "answer": ""},
+//   {"question": "", "image": "", "answer": ""},
+//   {"question": "", "image": "", "answer": ""},
+//   {"question": "", "image": "", "answer": ""},
+// ];
