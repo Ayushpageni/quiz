@@ -220,54 +220,6 @@
 //   },
 // ];
 
-// -------------------------Set 9-----------------------
-final List<Map<String, String>> questions = [
-  {"question": "", "audio": "", "answer": ""},
-  {
-    "question": "Identify the sound of the vehicle.",
-    "audio": "../assets/sound/set2a1.mp3",
-    "answer": "fighter jet"
-  },
-  {
-    "question": "Identify the sound of the musical instument.",
-    "audio": "../assets/sound/set2a2.mp3",
-    "answer": "flute"
-  },
-  {
-    "question": "Identify the sound of the musical instument .",
-    "audio": "../assets/sound/set2a3.mp3",
-    "answer": "Harmonica"
-  },
-  {
-    "question": "Identify the sound of the animal.",
-    "audio": "../assets/sound/set2a4.mp3",
-    "answer": "Hippo"
-  },
-];
-// -------------------------Set 10-----------------------
-// final List<Map<String, String>> questions = [
-//   {"question": "", "audio": "", "answer": ""},
-//   {
-//     "question": "1.	What is the name of the singer?",
-//     "audio": "../assets/sound/set3a1.mp3",
-//     "answer": "justin biber"
-//   },
-//   {
-//     "question": "2.	Identify the voice ?",
-//     "audio": "../assets/sound/set3a2.mp3",
-//     "answer": "Madan Bhandari"
-//   },
-//   {
-//     "question": "3.	What is the name of the singer?",
-//     "audio": "../assets/sound/set3a3.mp3",
-//     "answer": "Narayan gopal"
-//   },
-//   {
-//     "question": "4.	Identify the voice ?",
-//     "audio": "../assets/sound/set3a4.mp3",
-//     "answer": "nelson mandela"
-//   },
-// ];
 // -------------------------Set 11-----------------------
 // final List<Map<String, String>> questions = [
 //   {"question": "", "audio": "", "answer": ""},
@@ -293,30 +245,6 @@ final List<Map<String, String>> questions = [
 //   },
 // ];
 
-// -------------------------Set 12-----------------------
-// final List<Map<String, String>> questions = [
-//   {"question": "", "audio": "", "answer": ""},
-//   {
-//     "question": "1.	Name the movie of the song played?",
-//     "audio": "../assets/sound/set12a1.mp3",
-//     "answer": "khusma"
-//   },
-//   {
-//     "question": "2.	Name the movie of the song played?",
-//     "audio": "../assets/sound/set12a2.mp3",
-//     "answer": "Shakira Isabel Mebarak Ripoll"
-//   },
-//   {
-//     "question": "3.	Identify the voice ?",
-//     "audio": "../assets/sound/set12a3.mp3",
-//     "answer": "Sandeep chhetri"
-//   },
-//   {
-//     "question": "4.	What is the name of the singer?",
-//     "audio": "../assets/sound/set12a4.mp3",
-//     "answer": "Shiva pariyar"
-//   },
-// ];
 // -------------------------Set 13-----------------------
 // final List<Map<String, String>> questions = [
 //   {"question": "", "audio": "", "answer": ""},
@@ -341,3 +269,78 @@ final List<Map<String, String>> questions = [
 //     "answer": "-zebra"
 //   },
 // ];
+
+// -------------------------Set Semi Final 1-----------------------
+// final List<Map<String, String>> questions = [
+//   {"question": "", "audio": "", "answer": ""},
+//   {
+//     "question": "Identify the sound of the vehicle ?",
+//     "audio": "../assets/sound/set2a1.mp3",
+//     "answer": "fighter jet"
+//   },
+//   {
+//     "question": "Identify the sound of the musical instument ?",
+//     "audio": "../assets/sound/set2a2.mp3",
+//     "answer": "flute"
+//   },
+//   {
+//     "question": "Identify the sound of the musical instument ?",
+//     "audio": "../assets/sound/set2a3.mp3",
+//     "answer": "Harmonica"
+//   },
+//   {
+//     "question": "Identify the sound of the animal.",
+//     "audio": "../assets/sound/set2a4.mp3",
+//     "answer": "Hippo"
+//   },
+// ];
+
+// -------------------------Set Semi-Final-2-----------------------
+// final List<Map<String, String>> questions = [
+//   {"question": "", "audio": "", "answer": ""},
+//   {
+//     "question": "	What is the name of the singer?",
+//     "audio": "../assets/sound/set3a1.mp3",
+//     "answer": "justin biber"
+//   },
+//   {
+//     "question": "	Identify the voice ?",
+//     "audio": "../assets/sound/set3a2.mp3",
+//     "answer": "Madan Bhandari"
+//   },
+//   {
+//     "question": "	What is the name of the singer?",
+//     "audio": "../assets/sound/set3a3.mp3",
+//     "answer": "Narayan gopal"
+//   },
+//   {
+//     "question": "Identify the voice ?",
+//     "audio": "../assets/sound/set3a4.mp3",
+//     "answer": "nelson mandela"
+//   },
+// ];
+
+// -------------------------Set Final-----------------------
+final List<Map<String, String>> questions = [
+  {"question": "", "audio": "", "answer": ""},
+  {
+    "question": "Name the movie of the song played?",
+    "audio": "../assets/sound/set12a1.mp3",
+    "answer": "khusma"
+  },
+  {
+    "question": "Identify the full name of the singer.",
+    "audio": "../assets/sound/set12a2.mp3",
+    "answer": "Shakira Isabel Mebarak Ripoll"
+  },
+  {
+    "question": "Identify the voice ?",
+    "audio": "../assets/sound/set12a3.mp3",
+    "answer": "Sandeep chhetri"
+  },
+  {
+    "question": "What is the name of the singer?",
+    "audio": "../assets/sound/set12a4.mp3",
+    "answer": "Shiva pariyar"
+  },
+];

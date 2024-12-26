@@ -178,36 +178,6 @@
 //   }
 // ];
 
-//-----------------SET semi-2----------------//
-// final List<Map<String, String>> questions = [
-//   {"question": "", "image": "null", "answer": ""},
-//   {
-//     "question": "Who is this player?",
-//     "image": "image19.png",
-//     "answer": "Anjila Tumbapo Subba"
-//   },
-//   {
-//     "question": "Who is this famous boxer?",
-//     "image": "assets/photo/ques 29.jpg",
-//     "answer": "Mike Tyson"
-//   },
-//   {
-//     "question": "Name the musical instrument displayed in the screen?",
-//     "image": "assets/photo/tunguna.jpg",
-//     "answer": "Tungana"
-//   },
-//   {
-//     "question": "Which cast does this displayed customs belongs to?",
-//     "image": "assets/photo/ques 31.jpg",
-//     "answer": "Newar"
-//   },
-//   {
-//     "question": "Identify the person?",
-//     "image": "assets/photo/ques  32.jpg",
-//     "answer": "Dhanraj acharya"
-//   }
-// ];
-
 //-----------------SET final----------------//
 // final List<Map<String, String>> questions = [
 //   {"question": "", "image": "null", "answer": ""},
@@ -262,57 +232,6 @@
 //   },
 // ];
 
-// -------------------------Set 13-----------------------
-// final List<Map<String, String>> questions = [
-//   {"question": "", "image": "null", "answer": ""},
-//   {
-//     "question":
-//         "तस्बिरमा देखाइएको व्यक्ति नेपालका खेलाडी हुन् । उनको नाम के हो",
-//     "image": "../assets/photo/set5v1.jpg",
-//     "answer": "	Lalit Rajbanshi"
-//   },
-//   {
-//     "question": "तस्बिरमा देखाइएको व्यक्तिको नाम के हो",
-//     "image": "../assets/photo/set5v2.jpg",
-//     "answer": "Kiran Chemjong"
-//   },
-//   {
-//     "question": "Which band does the featured song    belong to?",
-//     "image": "../assets/photo/set5v1.jpg",
-//     "answer": "albatross"
-//   },
-//   {
-//     "question": "Which movie is this video related to?",
-//     "image": "../assets/photo/set5v1.jpg",
-//     "answer": "basudev"
-//   },
-// ];
-
-// -------------------------Set 12-----------------------
-// final List<Map<String, String>> questions = [
-//   {"question": "", "image": "null", "answer": ""},
-//   {
-//     "question": "तस्बिरमा देखाइएको व्यक्तिको नाम के हो",
-//     "image": "../assets/photo/set6v1.jpg",
-//     "answer": "Dhana Raj Acharya(Mayor of Pokhara )"
-//   },
-//   {
-//     "question": "तस्बिरमा देखाइएको व्यक्तिको नाम के हो",
-//     "image": "../assets/photo/set6v2.jpg",
-//     "answer": "Bidhya Bhattarai(Education Minister Of Nepal)"
-//   },
-//   {
-//     "question": "Which lake is the present video related to?",
-//     "image": "../assets/photo/set6v3.jpg",
-//     "answer": "begnas tal"
-//   },
-//   {
-//     "question": "What is the name of the main Actress of the presented video?",
-//     "image": "../assets/photo/set6v4.jpg",
-//     "answer": "Swostima khadka"
-//   },
-// ];
-
 // -------------------------Set 7-----------------------
 // final List<Map<String, String>> questions = [
 //   {"question": "", "image": "null", "answer": ""},
@@ -364,29 +283,29 @@
 // ];
 
 // -------------------------Set 9-----------------------
-final List<Map<String, String>> questions = [
-  {"question": "", "image": "null", "answer": ""},
-  {
-    "question": "तस्बिरमा देखाइएको मन्दिरको नाम के हो",
-    "image": "../assets/photo/set9v1.jpg",
-    "answer": "Muktinath Temple"
-  },
-  {
-    "question": "तस्बिरमा देखाइएको व्यक्ति को हुन्?",
-    "image": "../assets/photo/set9v2.jpg",
-    "answer": "Surendra Raj Pandey(mukhya mantra of Gandaki province)"
-  },
-  {
-    "question": "What is the name of the district in the presented video?",
-    "image": "../assets/photo/set9v3.mp4",
-    "answer": "Dolakha (kuri village)"
-  },
-  {
-    "question": "What is the name of the player presenting in video.",
-    "image": "../assets/photo/set9v4.mp4",
-    "answer": "Lalit rajbansi"
-  },
-];
+// final List<Map<String, String>> questions = [
+//   {"question": "", "image": "null", "answer": ""},
+//   {
+//     "question": "तस्बिरमा देखाइएको मन्दिरको नाम के हो",
+//     "image": "../assets/photo/set9v1.jpg",
+//     "answer": "Muktinath Temple"
+//   },
+//   {
+//     "question": "तस्बिरमा देखाइएको व्यक्ति को हुन्?",
+//     "image": "../assets/photo/set9v2.jpg",
+//     "answer": "Surendra Raj Pandey(mukhya mantra of Gandaki province)"
+//   },
+//   {
+//     "question": "What is the name of the district in the presented video?",
+//     "image": "../assets/photo/set9v3.mp4",
+//     "answer": "Dolakha (kuri village)"
+//   },
+//   {
+//     "question": "What is the name of the player presenting in video.",
+//     "image": "../assets/photo/set9v4.mp4",
+//     "answer": "Lalit rajbansi"
+//   },
+// ];
 
 // -------------------------Set 10-----------------------
 // final List<Map<String, String>> questions = [
@@ -413,45 +332,82 @@ final List<Map<String, String>> questions = [
 //   },
 // ];
 
-// -------------------------Set 11-----------------------
+// -------------------------Set Semi Final 1-----------------------
 // final List<Map<String, String>> questions = [
 //   {"question": "", "image": "null", "answer": ""},
 //   {
-//     "question": "तस्बिरमा देखाइएको मुर्ती कसको हो ",
-//     "image": "../assets/photo/set11v1.jpg",
-//     "answer": "Kal Bhairab"
+//     "question": "यो कुन नेपाली ब्यान्डको members को फोटो हो?",
+//     "image": "../assets/photo/set4v1.jpg",
+//     "answer": "The Element"
 //   },
 //   {
-//     "question": "Identify the name of player featured in picture.",
-//     "image": "../assets/photo/set11v2.jpg",
-//     "answer": "sahas bhandari (killeryt )pubg esports player"
+//     "question": "तस्बिरमा देखाइएको कसको फोटो हो",
+//     "image": "../assets/photo/set4v2.jpg",
+//     "answer": "	Ashma Kumari KC(Miss Nepal 2024)"
 //   },
 //   {
-//     "question": "What is the real name of this famous celebrity?",
-//     "image": "../assets/photo/set11v3.jpg",
-//     "answer": "dwayne jhonson"
+//     "question": "Which movie is this video related to?",
+//     "image": "assets/photo/set4v3.mp4",
+//     "answer": "12 gau"
 //   },
 //   {
-//     "question": "What is the name of singer of presented video.",
-//     "image": "../assets/photo/set11v4.mp4",
-//     "answer": "Raju pariyar"
+//     "question": "Which movie is this video related to?",
+//     "image": "assets/photo/set4v4.mp4",
+//     "answer": "aincho paincho"
 //   },
 // ];
 
-// -------------------------Set 12-----------------------
+//-----------------SET Semi Final-2----------------//
 // final List<Map<String, String>> questions = [
 //   {"question": "", "image": "null", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
+//   {
+//     "question": "Who is this player?",
+//     "image": "image19.png",
+//     "answer": "Anjila Tumbapo Subba"
+//   },
+//   {
+//     "question": "Who is this famous boxer?",
+//     "image": "assets/photo/ques 29.jpg",
+//     "answer": "Mike Tyson"
+//   },
+//   {
+//     "question": "Name the musical instrument displayed in the screen?",
+//     "image": "assets/photo/tunguna.jpg",
+//     "answer": "Tungana"
+//   },
+//   {
+//     "question": "Which cast does this displayed customs belongs to?",
+//     "image": "assets/photo/ques 31.jpg",
+//     "answer": "Newar"
+//   },
+//   {
+//     "question": "Identify the person?",
+//     "image": "assets/photo/ques  32.jpg",
+//     "answer": "Dhanraj acharya"
+//   }
 // ];
 
-// -------------------------Set 13-----------------------
-// final List<Map<String, String>> questions = [
-//   {"question": "", "image": "null", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-//   {"question": "", "image": "", "answer": ""},
-// ];
+// -------------------------Set Final-----------------------
+final List<Map<String, String>> questions = [
+  {"question": "", "image": "null", "answer": ""},
+  {
+    "question": "तस्बिरमा देखाइएको मुर्ती कसको हो?",
+    "image": "../assets/photo/set11v1.jpg",
+    "answer": "Kal Bhairab"
+  },
+  {
+    "question": "Identify the name of player featured in picture.",
+    "image": "../assets/photo/set11v2.jpg",
+    "answer": "sahas bhandari (killeryt )pubg esports player"
+  },
+  {
+    "question": "What is the real name of this famous celebrity?",
+    "image": "../assets/photo/set11v3.jpg",
+    "answer": "dwayne jhonson"
+  },
+  {
+    "question": "What is the name of singer of presented video?",
+    "image": "../assets/photo/set11v4.mp4",
+    "answer": "Raju pariyar"
+  },
+];

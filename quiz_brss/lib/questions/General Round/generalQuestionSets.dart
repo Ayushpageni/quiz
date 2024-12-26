@@ -538,113 +538,6 @@
 //   {"questionno": "20", "question": "६,३,१२,९,१७,१८ मा नमिल्ने अङ्क कुन हो?", "answer": "१७"}
 // ];
 
-// ------------------ SET 9 --------------------//
-final List<Map<String, String>> QuestionList = [
-  {"questionno": "", "question": "", "answer": ""},
-  {
-    "questionno": "1",
-    "question": "नेपालको रु १०० को नोटमा के को चित्र राखीएको छ?",
-    "answer": "गैडा"
-  },
-  {
-    "questionno": "2",
-    "question": "नेपालको सबैभन्दा कम साक्षरता भएको प्रदेश कुन हो?",
-    "answer": "मधेश"
-  },
-  {
-    "questionno": "3",
-    "question": "नेपालको मर्यादाक्रम अनुसार प्रधानमन्त्री कतिऔं क्रममा पर्दछ ?",
-    "answer": "तेस्रो"
-  },
-  {
-    "questionno": "4",
-    "question": "पृथ्वी उत्पत्ति भएको कति वर्ष भएको अनुमान गरिन्छ ?",
-    "answer": "चार अर्व पचास करोड वर्ष"
-  },
-  {
-    "questionno": "5",
-    "question": "कुन पदार्थ लाई सर्वव्यापी घोलक मानिन्छ?",
-    "answer": "पानी"
-  },
-  {
-    "questionno": "6",
-    "question": "मौरीले छुट्याउन नसक्ने रङ कुन हो ?",
-    "answer": "पहेंलो"
-  },
-  {
-    "questionno": "7",
-    "question": "कुन महादेशमा अझसम्म स्थायी मानव वसोवास भएको छैन?",
-    "answer": "अन्टार्कटिका"
-  },
-  {
-    "questionno": "8",
-    "question": "रेडियम कुन वैज्ञानिकले पता लगाएका हुन्?",
-    "answer": "म्याडम क्यूरी"
-  },
-  {
-    "questionno": "9",
-    "question": "पेटमा दात हुने जीव के हो?",
-    "answer": "गंगटो"
-  },
-  {
-    "questionno": "10",
-    "question": "जैन धर्मको प्रवर्तक कसलाई मानिन्छ ?",
-    "answer": "महावीर जैन"
-  },
-  {
-    "questionno": "11",
-    "question": "लेकको जङ्‌गलाई के भनिन्छ?",
-    "answer": "पाल"
-  },
-  {
-    "questionno": "12",
-    "question": "बौद्ध भिक्षुहरु बस्ने ठाउँलाई के भनिन्छ ?",
-    "answer": "विहार"
-  },
-  {
-    "questionno": "13",
-    "question": "डुंगा खियाउने साधनलाई के भनिन्छ ?",
-    "answer": "वहना"
-  },
-  {
-    "questionno": "14",
-    "question": "नेपालमा जम्मा गाउँपालिका संख्या कति छ?",
-    "answer": "४६० वटा"
-  },
-  {
-    "questionno": "15",
-    "question": "नेपालको सबैभन्दा सानो राष्ट्रिय निकुन्ज कुन हो?",
-    "answer": "रारा राष्ट्रिय निकुञ्ज"
-  },
-  {
-    "questionno": "16",
-    "question":
-        "३ ‘त्यही मानिस धार्मिक हो जसले अर्काको लागि त्याग गर्न सक्छ’ यो कसको भनाई हो?",
-    "answer": "गौतम बुद्ध"
-  },
-  {
-    "questionno": "17",
-    "question": "पोलो खेलको एक टिममा कतिजना खेलाडी हुन्छन् ?",
-    "answer": "४ जना"
-  },
-  {
-    "questionno": "18",
-    "question": "SOS को पूर्ण रुप के हो?",
-    "answer": "Save Our Soul"
-  },
-  {
-    "questionno": "19",
-    "question": "नेपालमा गणतन्त्र दिवस कहिले मनाइन्छ ?",
-    "answer": "जेठ १५"
-  },
-  {
-    "questionno": "20",
-    "question": "सारङ्गीमा कति वटा तार हुन्छन् ?",
-    "answer": "४ वटा"
-  }
-];
-
-
 // ------------------ SET 10 --------------------//
 // final List<Map<String, String>> QuestionList = [
 //   {"questionno": "", "question": "", "answer": ""},
@@ -668,58 +561,6 @@ final List<Map<String, String>> QuestionList = [
 //   {"questionno": "18", "question": "फलफूलहरुको अध्ययन गर्ने विज्ञानलाई के भनिन्छ?", "answer": "pomology (पोमोलोजी)"},
 //   {"questionno": "19", "question": "नेपाली धर्म तथा संस्कृति अनुसार त्रिफला भनेर कुन कुन फललाई चिनिन्छ?", "answer": "हर्रो, बर्रो र अमला"},
 //   {"questionno": "20", "question": "भगवान बुद्धले पहिरिने गेरु बस्त्रलाई के भनिन्छ?", "answer": "चिबर"}
-// ];
-
-
-// ------------------ SET 11 --------------------//
-// final List<Map<String, String>> QuestionList = [
-//   {"questionno": "", "question": "", "answer": ""},
-//   {"questionno": "1", "question": "विश्व एड्स दिवस कहिले मनाइन्छ?", "answer": "डिसेम्बर -१"},
-//   {"questionno": "2", "question": "गोपाल वंशीहरुको शासन केन्द्र कहाँ रहेको थियो?", "answer": "माता तीर्थ"},
-//   {"questionno": "3", "question": "समाजलाई ४ वर्ण ३६ जातमा विभाजन गर्ने राजा को हुन्?", "answer": "जयस्थिति मल्ल"},
-//   {"questionno": "4", "question": "राणा उपाधि धारण गर्ने पहिलो प्रधानमंत्री को हुन्?", "answer": "जंगबहादुर राणा"},
-//   {"questionno": "5", "question": "वर्तमान समयका नेपालका उपराष्ट्रपति को हुनुहुन्छ?", "answer": "रामसहाय प्रसाद यादव"},
-//   {"questionno": "6", "question": "नेपाली वास्तुविद अरनिको, अर्को कुन नामले पनि चिनिन्छन्?", "answer": "बलबाहु"},
-//   {"questionno": "7", "question": "कोशी, गण्डकी र कर्णाली कुन स्तरका नदी हुन्?", "answer": "प्रथम स्तरका (पहिलो)"},
-//   {"questionno": "8", "question": "फेवाताल नेपालको कुन स्थानीय तहमा पर्दछ?", "answer": "पोखरा महानगरपालिका"},
-//   {"questionno": "9", "question": "तोरीको लागि प्रसिद्ध ठाँउ कुन हो?", "answer": "चितवन"},
-//   {"questionno": "10", "question": "निजी क्षेत्रबाट निर्माण भएको पहिलो नेपाली चलचित्र कुन हो?", "answer": "माईतीघर"},
-//   {"questionno": "11", "question": "नेपाल सरकारबाट प्राविधिक धार अनुमति प्राप्त गरी प्राविधिकधार संचालित ब्रह्मरुपा मा.वि. पोखरा महानगरपालिकाको कति नम्बर वडामा पर्दछ?", "answer": "वडा नं.३२"},
-//   {"questionno": "12", "question": "राष्ट्रकवि भनेर कसलाई चिनिन्छ?", "answer": "माधव प्रसाद घिमिरे"},
-//   {"questionno": "13", "question": "\"न्याय नपाए गोरखा जानू\" भन्ने उखान कसको पालादेखी चलेको हो?", "answer": "राम शाह"},
-//   {"questionno": "14", "question": "'फुटवलका जादुगर' भनी चिनिने खेलाडी को हुन्?", "answer": "पेले"},
-//   {"questionno": "15", "question": "नेपालसंग सर्वप्रथम दौत्य सम्वन्ध कायम भएको देश कुन हो?", "answer": "बेलायत"},
-//   {"questionno": "16", "question": "रोमको सभ्यता कुन नदीको किनारमा विकसित भएको हो?", "answer": "टाइवर"},
-//   {"questionno": "17", "question": "दुवै आँखा नभएकोलाई अन्धो भनिन्छ भने एउटा आँखा नभएकोलाई के भनिन्छ?", "answer": "कानो"},
-//   {"questionno": "18", "question": "रातो रङ र हरियो रङ मिसाउदा कुन रङ बन्दछ?", "answer": "कालो"},
-//   {"questionno": "19", "question": "नेपालको मरुभूमि भनेर कुन जिल्लालाई चिनिन्छ?", "answer": "मुस्ताङ"},
-//   {"questionno": "20", "question": "जाँतोलाई घुमाउन प्रयोग गरिने काठको साधनलाई के भनिन्छ?", "answer": "हातो"}
-// ];
-
-
-// ------------------ SET 12 --------------------//
-// final List<Map<String, String>> QuestionList = [
-//   {"questionno": "", "question": "", "answer": ""},
-//   {"questionno": "1", "question": "हेमन्त ऋतुले कुन कुन महिनालाई प्रतिनिधित्व गर्दछ?", "answer": "मङ्सिर र पुष"},
-//   {"questionno": "2", "question": "कुन सङ्‌ख्याको ८० प्रतिशतमा ४ जोड्दा त्यही नै हुन्छ?", "answer": "२०"},
-//   {"questionno": "3", "question": "जाँतोलाई घुमाउन प्रयोग गरिने काठको साधनलाई के भनिन्छ?", "answer": "हातो"},
-//   {"questionno": "4", "question": "नेपालको मरुभूमि भनेर कुन जिल्लालाई चिनिन्छ?", "answer": "मुस्ताङ"},
-//   {"questionno": "5", "question": "रातो रङ र हरियो रङ मिसाउदा कुन रङ बन्दछ?", "answer": "कालो"},
-//   {"questionno": "6", "question": "दुवै आँखा नभएकोलाई अन्धो भनिन्छ भने एउटा आँखा नभएकोलाई के भनिन्छ?", "answer": "कानो"},
-//   {"questionno": "7", "question": "रोमको सभ्यता कुन नदीको किनारमा विकसित भएको हो?", "answer": "टाइवर"},
-//   {"questionno": "8", "question": "नेपालसंग सर्वप्रथम दौत्य सम्वन्ध कायम भएको देश कुन हो?", "answer": "बेलायत"},
-//   {"questionno": "9", "question": "'फुटवलका जादुगर' भनी चिनिने खेलाडी को हुन्?", "answer": "पेले"},
-//   {"questionno": "10", "question": "\"न्याय नपाए गोरखा जानू\" भन्ने उखान कसको पालादेखी चलेको हो?", "answer": "राम शाह"},
-//   {"questionno": "11", "question": "राष्ट्रकवि भनेर कसलाई चिनिन्छ?", "answer": "माधव प्रसाद घिमिरे"},
-//   {"questionno": "12", "question": "निजी क्षेत्रबाट निर्माण भएको पहिलो नेपाली चलचित्र कुन हो?", "answer": "माईतीघर"},
-//   {"questionno": "13", "question": "तोरीको लागि प्रसिद्ध ठाँउ कुन हो?", "answer": "चितवन"},
-//   {"questionno": "14", "question": "फेवाताल नेपालको कुन स्थानीय तहमा पर्दछ?", "answer": "पोखरा महानगरपालिका"},
-//   {"questionno": "15", "question": "कोशी, गण्डकी र कर्णाली कुन स्तरका नदी हुन्?", "answer": "प्रथम स्तरका (पहिलो)"},
-//   {"questionno": "16", "question": "नेपाली वास्तुविद अरनिको, अर्को कुन नामले पनि चिनिन्छन्?", "answer": "बलबाहु"},
-//   {"questionno": "17", "question": "वर्तमान समयका नेपालका उपराष्ट्रपति को हुनुहुन्छ?", "answer": "रामसहाय प्रसाद यादव"},
-//   {"questionno": "18", "question": "राणा उपाधि धारण गर्ने पहिलो प्रधानमंत्री को हुन्?", "answer": "जंगबहादुर राणा"},
-//   {"questionno": "19", "question": "समाजलाई ४ वर्ण ३६ जातमा विभाजन गर्ने राजा को हुन्?", "answer": "जयस्थिति मल्ल"},
-//   {"questionno": "20", "question": "गोपाल वंशीहरुको शासन केन्द्र कहाँ रहेको थियो?", "answer": "माता तीर्थ"}
 // ];
 
 // ------------------ SET 13 --------------------//
@@ -747,153 +588,346 @@ final List<Map<String, String>> QuestionList = [
 //   {"questionno": "20", "question": "वि.सं. २०८० सालको मदन पुरस्कार कसलाई प्रदान गरियो?", "answer": "मोहन मैनाली"},
 // ];
 
+// ------------------ SET backup --------------------//
+// final List<Map<String, String>> QuestionList = [
+//   {"questionno": "", "question": "", "answer": ""},
+//   {"questionno": "1", "question": "", "answer": ""},
+//   {"questionno": "2", "question": "", "answer": ""},
+//   {"questionno": "3", "question": "", "answer": ""},
+//   {"questionno": "4", "question": "", "answer": ""},
+//   {"questionno": "5", "question": "", "answer": ""},
+//   {"questionno": "6", "question": "", "answer": ""},
+//   {"questionno": "7", "question": "", "answer": ""},
+//   {"questionno": "8", "question": "", "answer": ""},
+//   {"questionno": "9", "question": "", "answer": ""},
+//   {"questionno": "10", "question": "", "answer": ""},
+//   {"questionno": "11", "question": "", "answer": ""},
+//   {"questionno": "12", "question": "", "answer": ""},
+//   {"questionno": "13", "question": "", "answer": ""},
+//   {"questionno": "14", "question": "", "answer": ""},
+//   {"questionno": "15", "question": "", "answer": ""},
+//   {"questionno": "16", "question": "", "answer": ""},
+//   {"questionno": "17", "question": "", "answer": ""},
+//   {"questionno": "18", "question": "", "answer": ""},
+//   {"questionno": "19", "question": "", "answer": ""},
+//   {"questionno": "20", "question": "", "answer": ""},
+// ];
 
-  // ------------------ SET backup --------------------//
-  // final List<Map<String, String>> QuestionList = [
-  //   {"questionno": "", "question": "", "answer": ""},
-  //   {"questionno": "1", "question": "", "answer": ""},
-  //   {"questionno": "2", "question": "", "answer": ""},
-  //   {"questionno": "3", "question": "", "answer": ""},
-  //   {"questionno": "4", "question": "", "answer": ""},
-  //   {"questionno": "5", "question": "", "answer": ""},
-  //   {"questionno": "6", "question": "", "answer": ""},
-  //   {"questionno": "7", "question": "", "answer": ""},
-  //   {"questionno": "8", "question": "", "answer": ""},
-  //   {"questionno": "9", "question": "", "answer": ""},
-  //   {"questionno": "10", "question": "", "answer": ""},
-  //   {"questionno": "11", "question": "", "answer": ""},
-  //   {"questionno": "12", "question": "", "answer": ""},
-  //   {"questionno": "13", "question": "", "answer": ""},
-  //   {"questionno": "14", "question": "", "answer": ""},
-  //   {"questionno": "15", "question": "", "answer": ""},
-  //   {"questionno": "16", "question": "", "answer": ""},
-  //   {"questionno": "17", "question": "", "answer": ""},
-  //   {"questionno": "18", "question": "", "answer": ""},
-  //   {"questionno": "19", "question": "", "answer": ""},
-  //   {"questionno": "20", "question": "", "answer": ""},
-  // ];
+// ------------------ SET Semi Final-1 --------------------//
+// final List<Map<String, String>> QuestionList = [
+//   {"questionno": "", "question": "", "answer": ""},
+//   {
+//     "questionno": "1",
+//     "question": "नेपालको रु १०० को नोटमा के को चित्र राखीएको छ?",
+//     "answer": "गैडा"
+//   },
+//   {
+//     "questionno": "2",
+//     "question": "नेपालको सबैभन्दा कम साक्षरता भएको प्रदेश कुन हो?",
+//     "answer": "मधेश"
+//   },
+//   {
+//     "questionno": "3",
+//     "question": "नेपालको मर्यादाक्रम अनुसार प्रधानमन्त्री कतिऔं क्रममा पर्दछ ?",
+//     "answer": "तेस्रो"
+//   },
+//   {
+//     "questionno": "4",
+//     "question": "पृथ्वी उत्पत्ति भएको कति वर्ष भएको अनुमान गरिन्छ ?",
+//     "answer": "चार अर्व पचास करोड वर्ष"
+//   },
+//   {
+//     "questionno": "5",
+//     "question": "कुन पदार्थ लाई सर्वव्यापी घोलक मानिन्छ?",
+//     "answer": "पानी"
+//   },
+//   {
+//     "questionno": "6",
+//     "question": "मौरीले छुट्याउन नसक्ने रङ कुन हो ?",
+//     "answer": "पहेंलो"
+//   },
+//   {
+//     "questionno": "7",
+//     "question": "कुन महादेशमा अझसम्म स्थायी मानव वसोवास भएको छैन?",
+//     "answer": "अन्टार्कटिका"
+//   },
+//   {
+//     "questionno": "8",
+//     "question": "रेडियम कुन वैज्ञानिकले पता लगाएका हुन्?",
+//     "answer": "म्याडम क्यूरी"
+//   },
+//   {
+//     "questionno": "9",
+//     "question": "पेटमा दात हुने जीव के हो?",
+//     "answer": "गंगटो"
+//   },
+//   {
+//     "questionno": "10",
+//     "question": "जैन धर्मको प्रवर्तक कसलाई मानिन्छ ?",
+//     "answer": "महावीर जैन"
+//   },
+//   {
+//     "questionno": "11",
+//     "question": "लेकको जङ्‌गलाई के भनिन्छ?",
+//     "answer": "पाल"
+//   },
+//   {
+//     "questionno": "12",
+//     "question": "बौद्ध भिक्षुहरु बस्ने ठाउँलाई के भनिन्छ ?",
+//     "answer": "विहार"
+//   },
+//   {
+//     "questionno": "13",
+//     "question": "डुंगा खियाउने साधनलाई के भनिन्छ ?",
+//     "answer": "वहना"
+//   },
+//   {
+//     "questionno": "14",
+//     "question": "नेपालमा जम्मा गाउँपालिका संख्या कति छ?",
+//     "answer": "४६० वटा"
+//   },
+//   {
+//     "questionno": "15",
+//     "question": "नेपालको सबैभन्दा सानो राष्ट्रिय निकुन्ज कुन हो?",
+//     "answer": "रारा राष्ट्रिय निकुञ्ज"
+//   },
+//   {
+//     "questionno": "16",
+//     "question":
+//         "३ ‘त्यही मानिस धार्मिक हो जसले अर्काको लागि त्याग गर्न सक्छ’ यो कसको भनाई हो?",
+//     "answer": "गौतम बुद्ध"
+//   },
+//   {
+//     "questionno": "17",
+//     "question": "पोलो खेलको एक टिममा कतिजना खेलाडी हुन्छन् ?",
+//     "answer": "४ जना"
+//   },
+//   {
+//     "questionno": "18",
+//     "question": "SOS को पूर्ण रुप के हो?",
+//     "answer": "Save Our Soul"
+//   },
+//   {
+//     "questionno": "19",
+//     "question": "नेपालमा गणतन्त्र दिवस कहिले मनाइन्छ ?",
+//     "answer": "जेठ १५"
+//   },
+//   {
+//     "questionno": "20",
+//     "question": "सारङ्गीमा कति वटा तार हुन्छन् ?",
+//     "answer": "४ वटा"
+//   }
+// ];
 
-  // ------------------ SET 16 --------------------//
-  // final List<Map<String, String>> QuestionList = [
-  //   {"questionno": "", "question": "", "answer": ""},
-  //   {"questionno": "1", "question": "", "answer": ""},
-  //   {"questionno": "2", "question": "", "answer": ""},
-  //   {"questionno": "3", "question": "", "answer": ""},
-  //   {"questionno": "4", "question": "", "answer": ""},
-  //   {"questionno": "5", "question": "", "answer": ""},
-  //   {"questionno": "6", "question": "", "answer": ""},
-  //   {"questionno": "7", "question": "", "answer": ""},
-  //   {"questionno": "8", "question": "", "answer": ""},
-  //   {"questionno": "9", "question": "", "answer": ""},
-  //   {"questionno": "10", "question": "", "answer": ""},
-  //   {"questionno": "11", "question": "", "answer": ""},
-  //   {"questionno": "12", "question": "", "answer": ""},
-  //   {"questionno": "13", "question": "", "answer": ""},
-  //   {"questionno": "14", "question": "", "answer": ""},
-  //   {"questionno": "15", "question": "", "answer": ""},
-  //   {"questionno": "16", "question": "", "answer": ""},
-  //   {"questionno": "17", "question": "", "answer": ""},
-  //   {"questionno": "18", "question": "", "answer": ""},
-  //   {"questionno": "19", "question": "", "answer": ""},
-  //   {"questionno": "20", "question": "", "answer": ""},
-  // ];
+// ------------------ SET Semi Final-2 --------------------//
+// final List<Map<String, String>> QuestionList = [
+//   {"questionno": "", "question": "", "answer": ""},
+//   {
+//     "questionno": "1",
+//     "question": "हेमन्त ऋतुले कुन कुन महिनालाई प्रतिनिधित्व गर्दछ?",
+//     "answer": "मङ्सिर र पुष"
+//   },
+//   {
+//     "questionno": "2",
+//     "question": "कुन सङ्‌ख्याको ८० प्रतिशतमा ४ जोड्दा त्यही नै हुन्छ?",
+//     "answer": "२०"
+//   },
+//   {
+//     "questionno": "3",
+//     "question": "जाँतोलाई घुमाउन प्रयोग गरिने काठको साधनलाई के भनिन्छ?",
+//     "answer": "हातो"
+//   },
+//   {
+//     "questionno": "4",
+//     "question": "नेपालको मरुभूमि भनेर कुन जिल्लालाई चिनिन्छ?",
+//     "answer": "मुस्ताङ"
+//   },
+//   {
+//     "questionno": "5",
+//     "question": "रातो रङ र हरियो रङ मिसाउदा कुन रङ बन्दछ?",
+//     "answer": "कालो"
+//   },
+//   {
+//     "questionno": "6",
+//     "question":
+//         "दुवै आँखा नभएकोलाई अन्धो भनिन्छ भने एउटा आँखा नभएकोलाई के भनिन्छ?",
+//     "answer": "कानो"
+//   },
+//   {
+//     "questionno": "7",
+//     "question": "रोमको सभ्यता कुन नदीको किनारमा विकसित भएको हो?",
+//     "answer": "टाइवर"
+//   },
+//   {
+//     "questionno": "8",
+//     "question": "नेपालसंग सर्वप्रथम दौत्य सम्वन्ध कायम भएको देश कुन हो?",
+//     "answer": "बेलायत"
+//   },
+//   {
+//     "questionno": "9",
+//     "question": "'फुटवलका जादुगर' भनी चिनिने खेलाडी को हुन्?",
+//     "answer": "पेले"
+//   },
+//   {
+//     "questionno": "10",
+//     "question": "\"न्याय नपाए गोरखा जानू\" भन्ने उखान कसको पालादेखी चलेको हो?",
+//     "answer": "राम शाह"
+//   },
+//   {
+//     "questionno": "11",
+//     "question": "राष्ट्रकवि भनेर कसलाई चिनिन्छ?",
+//     "answer": "माधव प्रसाद घिमिरे"
+//   },
+//   {
+//     "questionno": "12",
+//     "question": "निजी क्षेत्रबाट निर्माण भएको पहिलो नेपाली चलचित्र कुन हो?",
+//     "answer": "माईतीघर"
+//   },
+//   {
+//     "questionno": "13",
+//     "question": "तोरीको लागि प्रसिद्ध ठाँउ कुन हो?",
+//     "answer": "चितवन"
+//   },
+//   {
+//     "questionno": "14",
+//     "question": "फेवाताल नेपालको कुन स्थानीय तहमा पर्दछ?",
+//     "answer": "पोखरा महानगरपालिका"
+//   },
+//   {
+//     "questionno": "15",
+//     "question": "कोशी, गण्डकी र कर्णाली कुन स्तरका नदी हुन्?",
+//     "answer": "प्रथम स्तरका (पहिलो)"
+//   },
+//   {
+//     "questionno": "16",
+//     "question": "नेपाली वास्तुविद अरनिको, अर्को कुन नामले पनि चिनिन्छन्?",
+//     "answer": "बलबाहु"
+//   },
+//   {
+//     "questionno": "17",
+//     "question": "वर्तमान समयका नेपालका उपराष्ट्रपति को हुनुहुन्छ?",
+//     "answer": "रामसहाय प्रसाद यादव"
+//   },
+//   {
+//     "questionno": "18",
+//     "question": "राणा उपाधि धारण गर्ने पहिलो प्रधानमंत्री को हुन्?",
+//     "answer": "जंगबहादुर राणा"
+//   },
+//   {
+//     "questionno": "19",
+//     "question": "समाजलाई ४ वर्ण ३६ जातमा विभाजन गर्ने राजा को हुन्?",
+//     "answer": "जयस्थिति मल्ल"
+//   },
+//   {
+//     "questionno": "20",
+//     "question": "गोपाल वंशीहरुको शासन केन्द्र कहाँ रहेको थियो?",
+//     "answer": "माता तीर्थ"
+//   }
+// ];
 
-  // ------------------ SET 17 --------------------//
-  // final List<Map<String, String>> QuestionList = [
-  //   {"questionno": "", "question": "", "answer": ""},
-  //   {"questionno": "1", "question": "", "answer": ""},
-  //   {"questionno": "2", "question": "", "answer": ""},
-  //   {"questionno": "3", "question": "", "answer": ""},
-  //   {"questionno": "4", "question": "", "answer": ""},
-  //   {"questionno": "5", "question": "", "answer": ""},
-  //   {"questionno": "6", "question": "", "answer": ""},
-  //   {"questionno": "7", "question": "", "answer": ""},
-  //   {"questionno": "8", "question": "", "answer": ""},
-  //   {"questionno": "9", "question": "", "answer": ""},
-  //   {"questionno": "10", "question": "", "answer": ""},
-  //   {"questionno": "11", "question": "", "answer": ""},
-  //   {"questionno": "12", "question": "", "answer": ""},
-  //   {"questionno": "13", "question": "", "answer": ""},
-  //   {"questionno": "14", "question": "", "answer": ""},
-  //   {"questionno": "15", "question": "", "answer": ""},
-  //   {"questionno": "16", "question": "", "answer": ""},
-  //   {"questionno": "17", "question": "", "answer": ""},
-  //   {"questionno": "18", "question": "", "answer": ""},
-  //   {"questionno": "19", "question": "", "answer": ""},
-  //   {"questionno": "20", "question": "", "answer": ""},
-  // ];
-
-  // ------------------ SET 18 --------------------//
-  // final List<Map<String, String>> QuestionList = [
-  //   {"questionno": "", "question": "", "answer": ""},
-  //   {"questionno": "1", "question": "", "answer": ""},
-  //   {"questionno": "2", "question": "", "answer": ""},
-  //   {"questionno": "3", "question": "", "answer": ""},
-  //   {"questionno": "4", "question": "", "answer": ""},
-  //   {"questionno": "5", "question": "", "answer": ""},
-  //   {"questionno": "6", "question": "", "answer": ""},
-  //   {"questionno": "7", "question": "", "answer": ""},
-  //   {"questionno": "8", "question": "", "answer": ""},
-  //   {"questionno": "9", "question": "", "answer": ""},
-  //   {"questionno": "10", "question": "", "answer": ""},
-  //   {"questionno": "11", "question": "", "answer": ""},
-  //   {"questionno": "12", "question": "", "answer": ""},
-  //   {"questionno": "13", "question": "", "answer": ""},
-  //   {"questionno": "14", "question": "", "answer": ""},
-  //   {"questionno": "15", "question": "", "answer": ""},
-  //   {"questionno": "16", "question": "", "answer": ""},
-  //   {"questionno": "17", "question": "", "answer": ""},
-  //   {"questionno": "18", "question": "", "answer": ""},
-  //   {"questionno": "19", "question": "", "answer": ""},
-  //   {"questionno": "20", "question": "", "answer": ""},
-  // ];
-
-  // ------------------ SET 19 --------------------//
-  // final List<Map<String, String>> QuestionList = [
-  //   {"questionno": "", "question": "", "answer": ""},
-  //   {"questionno": "1", "question": "", "answer": ""},
-  //   {"questionno": "2", "question": "", "answer": ""},
-  //   {"questionno": "3", "question": "", "answer": ""},
-  //   {"questionno": "4", "question": "", "answer": ""},
-  //   {"questionno": "5", "question": "", "answer": ""},
-  //   {"questionno": "6", "question": "", "answer": ""},
-  //   {"questionno": "7", "question": "", "answer": ""},
-  //   {"questionno": "8", "question": "", "answer": ""},
-  //   {"questionno": "9", "question": "", "answer": ""},
-  //   {"questionno": "10", "question": "", "answer": ""},
-  //   {"questionno": "11", "question": "", "answer": ""},
-  //   {"questionno": "12", "question": "", "answer": ""},
-  //   {"questionno": "13", "question": "", "answer": ""},
-  //   {"questionno": "14", "question": "", "answer": ""},
-  //   {"questionno": "15", "question": "", "answer": ""},
-  //   {"questionno": "16", "question": "", "answer": ""},
-  //   {"questionno": "17", "question": "", "answer": ""},
-  //   {"questionno": "18", "question": "", "answer": ""},
-  //   {"questionno": "19", "question": "", "answer": ""},
-  //   {"questionno": "20", "question": "", "answer": ""},
-  // ];
-
-  // ------------------ SET 20 --------------------//
-  // final List<Map<String, String>> QuestionList = [
-  //   {"questionno": "", "question": "", "answer": ""},
-  //   {"questionno": "1", "question": "", "answer": ""},
-  //   {"questionno": "2", "question": "", "answer": ""},
-  //   {"questionno": "3", "question": "", "answer": ""},
-  //   {"questionno": "4", "question": "", "answer": ""},
-  //   {"questionno": "5", "question": "", "answer": ""},
-  //   {"questionno": "6", "question": "", "answer": ""},
-  //   {"questionno": "7", "question": "", "answer": ""},
-  //   {"questionno": "8", "question": "", "answer": ""},
-  //   {"questionno": "9", "question": "", "answer": ""},
-  //   {"questionno": "10", "question": "", "answer": ""},
-  //   {"questionno": "11", "question": "", "answer": ""},
-  //   {"questionno": "12", "question": "", "answer": ""},
-  //   {"questionno": "13", "question": "", "answer": ""},
-  //   {"questionno": "14", "question": "", "answer": ""},
-  //   {"questionno": "15", "question": "", "answer": ""},
-  //   {"questionno": "16", "question": "", "answer": ""},
-  //   {"questionno": "17", "question": "", "answer": ""},
-  //   {"questionno": "18", "question": "", "answer": ""},
-  //   {"questionno": "19", "question": "", "answer": ""},
-  //   {"questionno": "20", "question": "", "answer": ""},
-  // ];
+// ------------------ SET Final --------------------//
+final List<Map<String, String>> QuestionList = [
+  {"questionno": "", "question": "", "answer": ""},
+  {
+    "questionno": "1",
+    "question": "विश्व एड्स दिवस कहिले मनाइन्छ?",
+    "answer": "डिसेम्बर -१"
+  },
+  {
+    "questionno": "2",
+    "question": "गोपाल वंशीहरुको शासन केन्द्र कहाँ रहेको थियो?",
+    "answer": "माता तीर्थ"
+  },
+  {
+    "questionno": "3",
+    "question": "समाजलाई ४ वर्ण ३६ जातमा विभाजन गर्ने राजा को हुन्?",
+    "answer": "जयस्थिति मल्ल"
+  },
+  {
+    "questionno": "4",
+    "question": "राणा उपाधि धारण गर्ने पहिलो प्रधानमंत्री को हुन्?",
+    "answer": "जंगबहादुर राणा"
+  },
+  {
+    "questionno": "5",
+    "question": "वर्तमान समयका नेपालका उपराष्ट्रपति को हुनुहुन्छ?",
+    "answer": "रामसहाय प्रसाद यादव"
+  },
+  {
+    "questionno": "6",
+    "question": "नेपाली वास्तुविद अरनिको, अर्को कुन नामले पनि चिनिन्छन्?",
+    "answer": "बलबाहु"
+  },
+  {
+    "questionno": "7",
+    "question": "कोशी, गण्डकी र कर्णाली कुन स्तरका नदी हुन्?",
+    "answer": "प्रथम स्तरका (पहिलो)"
+  },
+  {
+    "questionno": "8",
+    "question": "फेवाताल नेपालको कुन स्थानीय तहमा पर्दछ?",
+    "answer": "पोखरा महानगरपालिका"
+  },
+  {
+    "questionno": "9",
+    "question": "तोरीको लागि प्रसिद्ध ठाँउ कुन हो?",
+    "answer": "चितवन"
+  },
+  {
+    "questionno": "10",
+    "question": "निजी क्षेत्रबाट निर्माण भएको पहिलो नेपाली चलचित्र कुन हो?",
+    "answer": "माईतीघर"
+  },
+  {
+    "questionno": "11",
+    "question":
+        "नेपाल सरकारबाट प्राविधिक धार अनुमति प्राप्त गरी प्राविधिकधार संचालित ब्रह्मरुपा मा.वि. पोखरा महानगरपालिकाको कति नम्बर वडामा पर्दछ?",
+    "answer": "वडा नं.३२"
+  },
+  {
+    "questionno": "12",
+    "question": "राष्ट्रकवि भनेर कसलाई चिनिन्छ?",
+    "answer": "माधव प्रसाद घिमिरे"
+  },
+  {
+    "questionno": "13",
+    "question": "\"न्याय नपाए गोरखा जानू\" भन्ने उखान कसको पालादेखी चलेको हो?",
+    "answer": "राम शाह"
+  },
+  {
+    "questionno": "14",
+    "question": "'फुटवलका जादुगर' भनी चिनिने खेलाडी को हुन्?",
+    "answer": "पेले"
+  },
+  {
+    "questionno": "15",
+    "question": "नेपालसंग सर्वप्रथम दौत्य सम्वन्ध कायम भएको देश कुन हो?",
+    "answer": "बेलायत"
+  },
+  {
+    "questionno": "16",
+    "question": "रोमको सभ्यता कुन नदीको किनारमा विकसित भएको हो?",
+    "answer": "टाइवर"
+  },
+  {
+    "questionno": "17",
+    "question":
+        "दुवै आँखा नभएकोलाई अन्धो भनिन्छ भने एउटा आँखा नभएकोलाई के भनिन्छ?",
+    "answer": "कानो"
+  },
+  {
+    "questionno": "18",
+    "question": "रातो रङ र हरियो रङ मिसाउदा कुन रङ बन्दछ?",
+    "answer": "कालो"
+  },
+  {
+    "questionno": "19",
+    "question": "नेपालको मरुभूमि भनेर कुन जिल्लालाई चिनिन्छ?",
+    "answer": "मुस्ताङ"
+  },
+  {
+    "questionno": "20",
+    "question": "जाँतोलाई घुमाउन प्रयोग गरिने काठको साधनलाई के भनिन्छ?",
+    "answer": "हातो"
+  }
+];
